@@ -14,19 +14,23 @@ The projects are organized by course codes. Here is an overview of the current c
 * **Assignment 3:** Data preprocessing, exploratory data analysis, and building regression models (Linear Regression and kNN) to predict medical insurance costs.
 * **Assignment 4:** Data preprocessing, handling missing values and outliers, and building classification models (kNN and Logistic Regression) to predict the likelihood of a stroke.
 
-*(Note: More courses and assignments will be added as I progress through my academic journey!)*
+### 📁 `BBM103` - Introduction to Programming I (Python)
+* **Assignments (1-6):** A series of six foundational projects covering basic I/O, control structures, modular functions, file handling, and data collection processing in Python.
+
+### 📁 `BBM104` - Introduction to Programming II (Java)
+* **Assignments (1-3):** Projects focused on Object-Oriented Programming (OOP) principles, including class design, inheritance, interfaces, polymorphism, and robust exception handling.
+
+### 📁 `BBM201` - Data Structures (C++)
+* **Assignment:** Implementation of core data structures using C++, focusing on memory management, algorithm efficiency, and abstract data types.
 
 ## 🛠️ Core Competencies & Tech Stack
 Across these assignments, I have utilized and developed skills in:
-* **Languages:** Java, Python, C++
-* **Computer Science Concepts:** 
-  * Data Structures
-  * Object-Oriented Programming (OOP)
-  * Digital Logic Design (FSM, Logic Gates)
-  * Memory Management & Algorithm Optimization
+* **Languages:** Java, Python, C++, SQL
+* **Data Science:** Exploratory Data Analysis (EDA), Regression, Classification, SQLite
+* **Software Engineering:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Design
 
 ## 🚀 How to Navigate
 You can explore each course folder to see the specific assignment descriptions, source codes, and test data. To run the projects locally, you can clone this repository:
 
 ```bash
-git clone [https://github.com/busraserbetci/YOUR-NEW-REPO-NAME.git](https://github.com/busraserbetci/YOUR-NEW-REPO-NAME.git)
+git clone [https://github.com/busraserbetci/University-Assignments.git](https://github.com/busraserbetci/University-Assignments.git)
