@@ -29,4 +29,4 @@ Across these assignments, I have utilized and developed skills in:
 You can explore each course folder to see the specific assignment descriptions, source codes, and test data. To run the projects locally, you can clone this repository:
 
 ```bash
-git clone [https://github.com/busraserbetci/SENIN-YENI-REPO-ADIN.git](https://github.com/busraserbetci/SENIN-YENI-REPO-ADIN.git)
+git clone [https://github.com/busraserbetci/YOUR-NEW-REPO-NAME.git](https://github.com/busraserbetci/YOUR-NEW-REPO-NAME.git)
