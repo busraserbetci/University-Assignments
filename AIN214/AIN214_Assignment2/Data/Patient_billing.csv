@@ -1,0 +1,665 @@
+PatientID,firstname,lastname,email,InvoiceID,Items,Amount
+919,Anallese,Halla,Anallese.Halla@yopmail.com,a4e9505f-c67c-4e3e-ac90-9c353d9f0282,Pediatric surgery,185051
+535,Shel,Dearborn,Shel.Dearborn@yopmail.com,3dbc85c3-a04e-44ca-ab04-ab60624def32,Pediatric surgery,156161
+535,Shel,Dearborn,Shel.Dearborn@yopmail.com,eea2cc5f-62be-44da-ac4b-18aa4b4ce8b8,Pediatric surgery,836470
+830,Mara,Shuler,Mara.Shuler@yopmail.com,8d601ac4-4044-4ba0-bda4-b8f20e8d4f8d,Insulin pump management for diabetes,673632
+398,Dale,Lewes,Dale.Lewes@yopmail.com,98e9862a-695e-4f0d-8e7f-a8ec43221b08,Rhinoplasty,660324
+398,Dale,Lewes,Dale.Lewes@yopmail.com,d9514688-6b99-4655-86f5-740d40fe8018,Liver biopsy,38535
+375,Sharlene,Luhe,Sharlene.Luhe@yopmail.com,84f08fcd-8b0c-4fd4-a0d5-c12426bea193,Tonsillectomy and adenoidectomy,153283
+375,Sharlene,Luhe,Sharlene.Luhe@yopmail.com,97d36d0d-9629-42be-8575-ca8589554fdc,Lumbar puncture,537335
+566,Rebeca,Winnick,Rebeca.Winnick@yopmail.com,7a6df5f2-de1d-416a-990d-b4ef2df94c73,Retinal surgery,836483
+566,Rebeca,Winnick,Rebeca.Winnick@yopmail.com,f31bbb37-c802-40c6-b87f-27461d0880b6,Intensive care management,720877
+566,Rebeca,Winnick,Rebeca.Winnick@yopmail.com,029a81a9-d8e6-4734-bb4e-a593e7139035,Comprehensive geriatric assessment,656471
+404,Merry,Henebry,Merry.Henebry@yopmail.com,462a5680-961e-4377-af19-a542c3ade3e8,EEG (Electroencephalogram),590977
+603,Dolli,Anderea,Dolli.Anderea@yopmail.com,413e10a2-cb15-4403-ba9e-753b3b4588b8,Chemotherapy,439472
+603,Dolli,Anderea,Dolli.Anderea@yopmail.com,3fbaa786-1762-4085-b101-eef57e477bae,Pediatric surgery,793507
+603,Dolli,Anderea,Dolli.Anderea@yopmail.com,ac87945a-d349-419e-b906-28d1256f62b9,Trauma resuscitation,552766
+939,Mellicent,Shama,Mellicent.Shama@yopmail.com,fe8ef9de-1ea1-4878-b28f-9ee68b9f0733,Medication management,856612
+334,Kaia,Taam,Kaia.Taam@yopmail.com,77956630-dfa0-4987-91f2-79f9ab3770be,Thyroid biopsy,394584
+906,Viviene,Autrey,Viviene.Autrey@yopmail.com,6a4c512c-26c9-4713-8148-23be81d3da53,MRI for brain imaging,985403
+147,Winny,Arley,Winny.Arley@yopmail.com,d94257cb-6870-4612-8be9-2e7425bcd907,Trauma resuscitation,641299
+147,Winny,Arley,Winny.Arley@yopmail.com,b299b3b8-0329-4ef0-a79e-6c304b6c2c48,Cardiology:,494217
+650,Wendi,Chem,Wendi.Chem@yopmail.com,90649253-6e18-4709-a405-59c08abdae0a,Tonsillectomy and adenoidectomy,691840
+489,Lory,Wu,Lory.Wu@yopmail.com,b9e0ca40-fecd-4c5a-b827-7651d986ee95,Endoscopy,448594
+489,Lory,Wu,Lory.Wu@yopmail.com,c27c4bfb-e68b-41c1-aa97-c16ca99dba21,Cochlear implant surgery,430683
+935,Meriel,Loring,Meriel.Loring@yopmail.com,f26ecfe1-cb98-45a8-8ccf-05a11564c651,Interventional radiology procedures,785210
+935,Meriel,Loring,Meriel.Loring@yopmail.com,4132e882-fe75-4afb-a81c-62256a8e2c47,Epidural analgesia during labor,447041
+969,Roseline,Anton,Roseline.Anton@yopmail.com,a65532ed-ec72-4804-88da-6fb63ff78326,Cardiology:,625713
+825,Norine,Elbertina,Norine.Elbertina@yopmail.com,eed5dc91-fc5a-48ee-9f53-8eab47d80670,LASIK eye surgery,114228
+804,Madelle,Camden,Madelle.Camden@yopmail.com,e86429b5-ec8f-4b92-8613-0d0a15bcb773,Polypharmacy management,929634
+804,Madelle,Camden,Madelle.Camden@yopmail.com,cb34f535-6faa-4275-aabd-c1426172680c,Electroconvulsive therapy (ECT),515777
+804,Madelle,Camden,Madelle.Camden@yopmail.com,0593e1d1-0e2f-4249-ad15-7233e8559d36,Intensive care management,773759
+350,Neila,Sprage,Neila.Sprage@yopmail.com,b6d4258d-a240-47af-9a1d-bc25c3422604,Tonsillectomy and adenoidectomy,663455
+350,Neila,Sprage,Neila.Sprage@yopmail.com,02162a59-39cc-439c-aacf-7bdb72cf2352,LASIK eye surgery,776923
+888,Reeba,Romelda,Reeba.Romelda@yopmail.com,c17d35a0-bd3d-41f8-9403-de9487967c0f,Pediatric surgery,996843
+888,Reeba,Romelda,Reeba.Romelda@yopmail.com,57660a42-f20e-4e0a-a737-3d134653c2a2,Management of complex infections,821747
+452,Joleen,Sophronia,Joleen.Sophronia@yopmail.com,af49daa9-8d2f-4737-a02a-80a8b43b6c4d,Epidural analgesia during labor,974821
+452,Joleen,Sophronia,Joleen.Sophronia@yopmail.com,be4c204d-a86f-43f1-9085-13d82095aa2b,Sedation for minor procedures,190037
+926,Doro,Tybald,Doro.Tybald@yopmail.com,2c6089dd-9cb0-452e-9e99-446da7dd8c69,Laser therapy for skin conditions,953783
+952,Brena,Cassius,Brena.Cassius@yopmail.com,b7b08593-89ad-4dd7-b44c-02ebd4adc41d,Polypharmacy management,405744
+952,Brena,Cassius,Brena.Cassius@yopmail.com,1ae73a18-1f49-4263-b926-cada73ebd26b,Trauma resuscitation,682613
+297,Kore,Genna,Kore.Genna@yopmail.com,2ac81c62-9eb6-46ec-bb22-bb9cc59cb1e6,Endoscopy,771494
+659,Chere,Tice,Chere.Tice@yopmail.com,6aaffb7e-5094-4970-9efc-bef927f021ff,Immunotherapy (allergy shots),348712
+124,Netty,Allina,Netty.Allina@yopmail.com,e7bbcbcb-5ae5-4135-b261-b7098a08a624,Orthopedic surgery,416167
+213,Gale,Pattin,Gale.Pattin@yopmail.com,f2b090aa-a513-4922-b50c-67ab118aa287,Tonsillectomy and adenoidectomy,183912
+850,Dari,Agle,Dari.Agle@yopmail.com,0cb5d79f-9aca-4f8d-b577-e8084bf0948b,Symptom management for end-of-life care,306776
+850,Dari,Agle,Dari.Agle@yopmail.com,af71a7ea-8bd1-4518-846e-c56268c329fb,Epidural anesthesia for pain management,11836
+685,Nataline,Sherrie,Nataline.Sherrie@yopmail.com,eaeff6d9-6a9c-4b71-b72d-a98f20f55102,Advanced cardiac life support,895531
+685,Nataline,Sherrie,Nataline.Sherrie@yopmail.com,dc9ec2f2-451e-4bc8-8ea8-b0f5a014d240,Orthopedic surgery,839760
+931,Keelia,Olin,Keelia.Olin@yopmail.com,e77ad6c9-b3c1-4d13-813f-7a58fb6ca1a5,Coronary artery bypass surgery,913490
+205,Corry,Neils,Corry.Neils@yopmail.com,79ad7a78-1189-4809-be03-03a79cbad96a,Anesthetic care during childbirth,473143
+205,Corry,Neils,Corry.Neils@yopmail.com,a09f441e-06a5-449a-a4cd-9ad55a9306ab,Epidural analgesia during labor,121028
+205,Corry,Neils,Corry.Neils@yopmail.com,7eec06b9-2ced-4e29-afc1-7abb65ec0073,Dermatologic surgery,674041
+723,Alex,Dituri,Alex.Dituri@yopmail.com,ccdc6e70-e690-4f84-9f9d-261ee0f06250,Emotional and spiritual support,389474
+723,Alex,Dituri,Alex.Dituri@yopmail.com,5656ecee-7d29-46e8-aebd-f7e97a7fd83b,Hemodynamic monitoring,539646
+159,Jan,Wyn,Jan.Wyn@yopmail.com,4ad2406d-88ec-497b-af75-7c026fd53110,Pulmonary function tests,206481
+747,Lila,Rhu,Lila.Rhu@yopmail.com,5112abb3-ab21-44b2-b15f-76f7f4c86145,Medication management,826278
+285,Monika,Larochelle,Monika.Larochelle@yopmail.com,81f04745-fea8-4b10-99b3-312329d20751,Coronary artery bypass surgery,599162
+285,Monika,Larochelle,Monika.Larochelle@yopmail.com,50c5e4ed-d8ea-4f3e-a9ef-d629ad167c3d,Cochlear implant surgery,589274
+772,Glynnis,Yusuk,Glynnis.Yusuk@yopmail.com,acf62c90-73f8-4e28-9da1-a19ee5ddd516,MRI for brain imaging,449080
+772,Glynnis,Yusuk,Glynnis.Yusuk@yopmail.com,172da43a-b3d0-4e99-b4ca-7b1b8ccb5379,EEG (Electroencephalogram),285439
+844,Sandie,Saint,Sandie.Saint@yopmail.com,bab27c46-b829-4569-8a7e-412979419c94,,161408
+317,Sallie,Alice,Sallie.Alice@yopmail.com,fc6d86ae-9c34-455e-86e2-5f47ab6ebb32,Management of complex medical conditions,301311
+241,Lynnea,Arquit,Lynnea.Arquit@yopmail.com,9301dd13-7e2f-4ef6-b676-4e9243306bd2,Hormone replacement therapy,996207
+241,Lynnea,Arquit,Lynnea.Arquit@yopmail.com,df1719f2-ed53-40db-8a3d-82eaa2441fc9,Polypharmacy management,89196
+625,Donetta,Sandye,Donetta.Sandye@yopmail.com,8bedfa39-e73a-4d21-89c6-8bbcad1bd007,Rhinoplasty,247936
+625,Donetta,Sandye,Donetta.Sandye@yopmail.com,28c5c504-09e9-45be-b827-588c50cdb7f6,Mechanical ventilation,261443
+700,Georgetta,Dawkins,Georgetta.Dawkins@yopmail.com,fd5b4d9b-13d8-4cd3-8557-349c575113f8,Kidney transplant,210604
+700,Georgetta,Dawkins,Georgetta.Dawkins@yopmail.com,801184e2-2871-494c-b872-a6d0421c4e82,Comprehensive geriatric assessment,136473
+623,Beatriz,Matthew,Beatriz.Matthew@yopmail.com,23eb18a8-91a4-439f-bbcf-ba48ea75e715,Thyroid biopsy,24885
+397,Lorenza,Gaynor,Lorenza.Gaynor@yopmail.com,12c91463-e20f-42d3-a1dd-0abf6f4ba673,Retinal surgery,126338
+397,Lorenza,Gaynor,Lorenza.Gaynor@yopmail.com,8c2a6a96-0152-47ee-90b2-8fc7ae120b32,Endoscopy,240771
+880,Rosaline,Nicoline,Rosaline.Nicoline@yopmail.com,88ea9f5a-f12f-42ed-819b-85d81699d637,Plastic surgery,75844
+880,Rosaline,Nicoline,Rosaline.Nicoline@yopmail.com,9b8e7e2a-f363-40d4-b3b0-ac147972533a,Tonsillectomy and adenoidectomy,247308
+880,Rosaline,Nicoline,Rosaline.Nicoline@yopmail.com,67fc9fc0-f670-49cf-87ab-97f30d189675,Psychotherapy,375887
+880,Rosaline,Nicoline,Rosaline.Nicoline@yopmail.com,10d868ad-b2e9-413c-b422-a28a8b1ab934,Mechanical ventilation,632888
+111,Leontine,Zachary,Leontine.Zachary@yopmail.com,7a0880e8-ed43-43b0-ac60-50c040219fe8,Emergency surgical procedures,431618
+111,Leontine,Zachary,Leontine.Zachary@yopmail.com,7e06f09c-8d1f-44ca-9cab-c85926504b34,Interventional radiology procedures,37837
+151,Linet,Persse,Linet.Persse@yopmail.com,14c1119e-4120-4580-a9dc-ee7ef51ecd72,"X-rays, CT scans, MRI scans",50442
+698,Imojean,Sekofski,Imojean.Sekofski@yopmail.com,ec00f3c3-df8f-40f7-a8de-8d53f7e857b8,Medication management,785130
+258,Marleah,Maiah,Marleah.Maiah@yopmail.com,dd68b525-4cbf-4625-adae-d24d9f731909,Cochlear implant surgery,568639
+547,Pearline,Carri,Pearline.Carri@yopmail.com,fd5c3516-4455-4f45-a533-907cde87c69f,Comprehensive geriatric assessment,833501
+513,Sandie,Dash,Sandie.Dash@yopmail.com,43c7a48f-e6cb-40f0-85df-5c29d7ecfc98,Pulmonary function tests,891368
+788,Bobbi,Jaylene,Bobbi.Jaylene@yopmail.com,b448a515-817d-454f-8454-927a3f0cc98c,Dialysis,875415
+788,Bobbi,Jaylene,Bobbi.Jaylene@yopmail.com,9a616c6a-f76d-480f-b7b3-9a3df962de1f,Epidural anesthesia for pain management,852918
+816,Brena,Obed,Brena.Obed@yopmail.com,e1d49ea0-88a2-4aef-9f40-61c898330809,Chronic disease management,951259
+808,Cathyleen,Sigfrid,Cathyleen.Sigfrid@yopmail.com,652b4450-8a77-4c6e-9334-5f20a44e12eb,Pediatric surgery,534188
+808,Cathyleen,Sigfrid,Cathyleen.Sigfrid@yopmail.com,6310bb38-7b49-4544-8d4e-377fc4922f3b,Emotional and spiritual support,775636
+808,Cathyleen,Sigfrid,Cathyleen.Sigfrid@yopmail.com,ed27e155-959a-437f-afa5-d47a8c4356f4,Electroconvulsive therapy (ECT),395938
+779,Candi,Shaver,Candi.Shaver@yopmail.com,76060a48-db3a-46ff-890d-741c7aa2a6fc,Well-child check-ups,569888
+779,Candi,Shaver,Candi.Shaver@yopmail.com,01954f47-b65e-4b1e-8c00-294c3bbaae4d,Dementia care,802419
+779,Candi,Shaver,Candi.Shaver@yopmail.com,38e53fbe-819d-4d40-8102-1b158550da6c,Laser therapy for skin conditions,777974
+779,Candi,Shaver,Candi.Shaver@yopmail.com,217b0aa5-f6b9-4122-8618-d2f44fbfc87a,EEG (Electroencephalogram),829856
+779,Candi,Shaver,Candi.Shaver@yopmail.com,c827d2d9-23c9-4256-8427-772c022622ce,Dialysis,303506
+480,Sharlene,Kiersten,Sharlene.Kiersten@yopmail.com,23df246d-afc6-4984-956c-8dc719166fc5,Rhinoplasty,278389
+480,Sharlene,Kiersten,Sharlene.Kiersten@yopmail.com,e09345ab-479d-4973-858f-a969aef6b8a5,General health check-ups,462984
+480,Sharlene,Kiersten,Sharlene.Kiersten@yopmail.com,2f1a293b-752a-4f73-a4b1-c7f02a2a95f4,Coronary artery bypass surgery,714118
+202,Rivalee,Loring,Rivalee.Loring@yopmail.com,2175f95d-9dc2-447e-8131-25e37ba21c2f,Rhinoplasty,200890
+202,Rivalee,Loring,Rivalee.Loring@yopmail.com,124da3b3-23b7-4451-b0f0-3b06af4fd6ff,Trauma resuscitation,821302
+354,Ivett,Milson,Ivett.Milson@yopmail.com,5e370019-b4f5-4758-9bb8-f086b2719566,Comprehensive geriatric assessment,756533
+387,Kayla,Emmy,Kayla.Emmy@yopmail.com,99af73f2-c86b-435e-9b49-6179fdae22f0,Interventional radiology procedures,45792
+387,Kayla,Emmy,Kayla.Emmy@yopmail.com,4f9a40bf-c538-40df-961c-059493f8a29a,General health check-ups,529230
+551,Raf,McCutcheon,Raf.McCutcheon@yopmail.com,cf9439cc-3a48-422b-9cd2-2d5763ceb381,Radiation therapy,506833
+551,Raf,McCutcheon,Raf.McCutcheon@yopmail.com,a16b50d3-97c5-4351-b26f-beab8c1c46fe,Cochlear implant surgery,904874
+929,Sonni,Regan,Sonni.Regan@yopmail.com,fdc0f564-464d-4509-bede-4da102a59c38,Cochlear implant surgery,276991
+929,Sonni,Regan,Sonni.Regan@yopmail.com,b876b45c-82cc-40df-b276-2b59f9e8c0e0,Symptom management for end-of-life care,25537
+929,Sonni,Regan,Sonni.Regan@yopmail.com,9ec6f3ab-a64c-4469-ad10-6b1b2da2857c,Psychotherapy,789026
+929,Sonni,Regan,Sonni.Regan@yopmail.com,8234e9dc-7be8-40d0-97a1-592f26ef8394,Dermatologic surgery,549511
+166,Marcy,Melleta,Marcy.Melleta@yopmail.com,3c3948e2-c8c6-4afa-a1dd-2829c5b50998,Chemotherapy,750380
+963,Consuela,Heisel,Consuela.Heisel@yopmail.com,f25dfa48-b945-4f4b-a212-a67cef51b117,Minor surgical procedures,876578
+963,Consuela,Heisel,Consuela.Heisel@yopmail.com,5b4db8ae-edc3-4cd6-9937-4314927cd40b,Emergency surgical procedures,608334
+533,Jany,Hortensia,Jany.Hortensia@yopmail.com,e62820e7-2026-4502-a405-0d6ebf7a2353,,219005
+533,Jany,Hortensia,Jany.Hortensia@yopmail.com,be7dbcdb-9b6b-4ab2-8294-2ef96518eca5,"Cosmetic procedures (e.g., Botox, fillers)",561665
+460,Evita,Silvan,Evita.Silvan@yopmail.com,7006bdc9-6d29-4454-b892-f90dc9855f9f,Coronary artery bypass surgery,267695
+120,Camile,Ovid,Camile.Ovid@yopmail.com,dc75eedb-08fc-43b6-9410-aeccf76bd029,Management of complex medical conditions,809324
+527,Amalie,Raffo,Amalie.Raffo@yopmail.com,5b38955c-773b-4baf-b9da-364b29449053,Surgical oncology,116725
+979,Winifred,Tice,Winifred.Tice@yopmail.com,3f197bec-1f70-41b6-b676-4c01bd2a9769,Chronic disease management,891275
+979,Winifred,Tice,Winifred.Tice@yopmail.com,41452412-fa15-4826-9483-2e28db938090,Cochlear implant surgery,348267
+405,Annaliese,Gaulin,Annaliese.Gaulin@yopmail.com,634391a8-de5c-4501-b1a2-2503ccc41acc,Pacemaker implantation,723767
+849,Marti,Jarib,Marti.Jarib@yopmail.com,25f0fb86-0559-4049-bd8a-a9f2fb62bf4a,General surgery,332209
+849,Marti,Jarib,Marti.Jarib@yopmail.com,3412a59a-593a-4de0-8d0a-adcbe1f7404a,General surgery,68004
+610,Trixi,Hollingsworth,Trixi.Hollingsworth@yopmail.com,a273eecb-45ae-4a8f-98fa-499cf77f9d27,Pulmonary function tests,693155
+610,Trixi,Hollingsworth,Trixi.Hollingsworth@yopmail.com,5c02fdad-bcc7-4f10-95bc-225da5066ca8,Symptom management for end-of-life care,351723
+174,Cam,Cordi,Cam.Cordi@yopmail.com,59b399d6-8d8b-437b-9e54-d6573706d965,Colonoscopy,314854
+174,Cam,Cordi,Cam.Cordi@yopmail.com,20b1015b-6542-4c1a-99d3-daa389d0a19f,Well-child check-ups,952306
+174,Cam,Cordi,Cam.Cordi@yopmail.com,9c3b6be9-8e34-4622-8cdd-ed45c2679d1a,Insulin pump management for diabetes,664899
+978,Aryn,Arvo,Aryn.Arvo@yopmail.com,f45b51f2-e229-41e9-8930-77623b3d3f34,Symptom management for end-of-life care,470905
+211,Sara-Ann,Amadas,Sara-Ann.Amadas@yopmail.com,9fa56d24-5b41-4492-9608-794d35c4373e,Radiation therapy,771276
+211,Sara-Ann,Amadas,Sara-Ann.Amadas@yopmail.com,a6a109f2-22d7-4280-b9ca-15b63eb05f1e,Retinal surgery,989492
+848,Sybille,McLaughlin,Sybille.McLaughlin@yopmail.com,22b7ff04-3c35-4d2a-87ec-86abdd178126,Antibiotic therapy,508208
+562,Sam,Florina,Sam.Florina@yopmail.com,7590f1ae-d76e-4196-b204-4657adf6cd7a,General anesthesia for surgeries,607507
+562,Sam,Florina,Sam.Florina@yopmail.com,7cb966da-6519-4322-a7a3-18177f9431b5,Hormone replacement therapy,333973
+562,Sam,Florina,Sam.Florina@yopmail.com,af690582-687e-47f8-8a5f-add8e28e0085,Pulmonary function tests,884305
+686,Sherrie,Ashely,Sherrie.Ashely@yopmail.com,5c1b36fb-39cf-4760-87fb-c69fa6d6c228,Insulin pump management for diabetes,182726
+347,Latisha,Percy,Latisha.Percy@yopmail.com,6b5d7f41-1e6f-48f1-9abb-4ee3a905961e,Trauma resuscitation,413952
+347,Latisha,Percy,Latisha.Percy@yopmail.com,d12cbaa7-f563-4688-9298-6f150f339268,Intensive care management,479307
+574,Camile,Jammal,Camile.Jammal@yopmail.com,488fd806-d563-4d14-b976-0ec4fb69ef63,,331820
+739,Claresta,Lane,Claresta.Lane@yopmail.com,d3683617-5642-4b4a-b864-3fbf5ed91aab,Trauma resuscitation,453602
+739,Claresta,Lane,Claresta.Lane@yopmail.com,c0edb70b-613f-4249-b693-4390e92555ea,LASIK eye surgery,161985
+730,Agnese,Gherardo,Agnese.Gherardo@yopmail.com,5be2a593-8989-4fcd-98fc-f9964399159a,Anesthetic care during childbirth,388002
+730,Agnese,Gherardo,Agnese.Gherardo@yopmail.com,5c12f464-1299-418c-b6cd-ddd9b0f71ac5,Epidural analgesia during labor,305293
+730,Agnese,Gherardo,Agnese.Gherardo@yopmail.com,fb58cc56-16ab-45c4-89b2-ad461ff38bd7,Internal medicine consultations,46847
+730,Agnese,Gherardo,Agnese.Gherardo@yopmail.com,fd038240-1f3a-4ad2-9113-8685e5d35ade,Polypharmacy management,824555
+645,Tiffie,Johnsson,Tiffie.Johnsson@yopmail.com,b43c5d49-e5e6-47de-8524-ca56ecac547c,Electroconvulsive therapy (ECT),460449
+240,Margette,Belldas,Margette.Belldas@yopmail.com,ba393ffd-f452-458d-b220-e436e28dc069,Insulin pump management for diabetes,718804
+240,Margette,Belldas,Margette.Belldas@yopmail.com,91a866f4-f2cc-4653-a7c6-e1dcf5bd1e94,Insulin pump management for diabetes,696773
+240,Margette,Belldas,Margette.Belldas@yopmail.com,5a5353ac-864c-4da2-b008-36b910ee0ac1,General health check-ups,845706
+240,Margette,Belldas,Margette.Belldas@yopmail.com,b83cec51-9d11-4d38-bcbf-e0fbcad7c495,Anesthetic care during childbirth,538720
+426,Philis,Sawtelle,Philis.Sawtelle@yopmail.com,82a6804e-0522-4f3c-a11c-6c6c1c9f83f6,,879405
+426,Philis,Sawtelle,Philis.Sawtelle@yopmail.com,a34373d3-2f94-4177-988e-153d7df914c8,Interventional radiology procedures,209733
+667,Ileana,Fabiola,Ileana.Fabiola@yopmail.com,87177464-e6f3-453b-88e1-35d49c5952dc,Dermatologic surgery,582613
+641,Andeee,Chapland,Andeee.Chapland@yopmail.com,6bd3ef5d-c701-41fe-9a75-c256c1ef47f1,Laser therapy for skin conditions,608597
+341,Ebonee,Kendrick,Ebonee.Kendrick@yopmail.com,2e7e34e8-81d6-4eb7-b1ab-378d1066d987,Medication management,153320
+341,Ebonee,Kendrick,Ebonee.Kendrick@yopmail.com,b8b814ea-d7df-4a5a-b857-8c2782936418,Lumbar puncture,965585
+992,Angela,Claudine,Angela.Claudine@yopmail.com,348a2ea0-e8c2-4877-a744-6659f78af2c0,Ventilation support,24611
+803,Gilligan,Rolf,Gilligan.Rolf@yopmail.com,f4ca9490-fc7c-43b9-88b3-9c68598d5292,Medication management,384096
+298,Chere,Dom,Chere.Dom@yopmail.com,5c50ce91-0776-4dd3-b542-3558980c424f,Bronchoscopy,20564
+514,Kirbee,Tarrant,Kirbee.Tarrant@yopmail.com,6eaf7c9e-ad49-4ecd-99c3-d181f9596925,Comprehensive geriatric assessment,844791
+514,Kirbee,Tarrant,Kirbee.Tarrant@yopmail.com,574f12fe-c551-4845-8ee9-8f8e6b87ef8d,Immunizations,490692
+514,Kirbee,Tarrant,Kirbee.Tarrant@yopmail.com,cf05cd61-da08-4d1b-a1a9-847186f0626e,Cochlear implant surgery,666007
+161,Chloris,Crudden,Chloris.Crudden@yopmail.com,1a50a6ba-b612-48e7-9d18-1d6a0d6449a1,General health check-ups,563494
+161,Chloris,Crudden,Chloris.Crudden@yopmail.com,1a2102bd-a82e-49c5-9bea-236c756d83aa,MRI for brain imaging,555135
+618,Molli,Liebermann,Molli.Liebermann@yopmail.com,6fecc813-a9aa-4a89-97b5-079f3842eeeb,Pediatric surgery,524091
+618,Molli,Liebermann,Molli.Liebermann@yopmail.com,f5c0b2df-e738-458d-855c-a93e72659026,,706908
+618,Molli,Liebermann,Molli.Liebermann@yopmail.com,b8ab3182-c285-4c33-8ef0-e6e82eb709d6,Pacemaker implantation,408965
+865,Bobbi,Ambrosia,Bobbi.Ambrosia@yopmail.com,1cbf198a-625c-4d6e-8860-32c73a3159c0,Dermatologic surgery,834252
+639,Misha,Yate,Misha.Yate@yopmail.com,8f88d301-6726-4a10-8f18-ce1db362be1b,,93027
+639,Misha,Yate,Misha.Yate@yopmail.com,8fa0bea5-5c3b-4913-bd80-8836f1d4fddf,Epidural anesthesia for pain management,812712
+499,Trudie,Erb,Trudie.Erb@yopmail.com,5ca6f563-6172-4f28-a35b-32552d796283,Liver biopsy,699215
+930,Bernardine,Bates,Bernardine.Bates@yopmail.com,4f0bded4-a130-45a6-a54a-1ee48b8da630,Immunizations,506212
+930,Bernardine,Bates,Bernardine.Bates@yopmail.com,ed2287c9-c738-4fda-8988-1ff93fcc1175,Bronchoscopy,769064
+930,Bernardine,Bates,Bernardine.Bates@yopmail.com,359bb22d-ee52-49f8-8518-194d8c532498,Endoscopy,604602
+355,Sallie,Plato,Sallie.Plato@yopmail.com,a8706a72-09b3-417b-9d8b-4932c959fcd9,Minor surgical procedures,693982
+355,Sallie,Plato,Sallie.Plato@yopmail.com,82cd9679-6b5e-425a-ba6b-798f26fb4927,Immunotherapy (allergy shots),670980
+470,Emilia,Zetta,Emilia.Zetta@yopmail.com,193da6d1-1d22-45cf-8730-8bf7aa6937d1,Advanced cardiac life support,424080
+438,Sissy,Bari,Sissy.Bari@yopmail.com,afc3e521-36f9-43d9-b78a-17c8354b45d6,Insulin pump management for diabetes,835261
+438,Sissy,Bari,Sissy.Bari@yopmail.com,06b19bfc-012c-418f-954d-7e83d5e8313f,,499716
+959,Lory,Dash,Lory.Dash@yopmail.com,6b3ef933-f25e-42a8-a22d-32f85aaf837d,Chemotherapy,154402
+959,Lory,Dash,Lory.Dash@yopmail.com,10c01476-550a-4f03-be94-a0e6c87c5c9c,Psychotherapy,863512
+434,Lauryn,Karl,Lauryn.Karl@yopmail.com,ed89afa0-01c6-4a00-ab7a-5ab5f559017d,Radiation therapy,914950
+596,Susan,Christal,Susan.Christal@yopmail.com,1a2c1cb7-409c-4f44-98c6-d3a2cf86de3c,Cardiology:,569550
+194,Priscilla,Mathilde,Priscilla.Mathilde@yopmail.com,5316649a-4595-410c-bbbb-fa59eb457c09,Dialysis,125035
+194,Priscilla,Mathilde,Priscilla.Mathilde@yopmail.com,831abfc7-e778-4e17-8cac-61589c228bad,Hormone replacement therapy,871755
+349,Emylee,Redmond,Emylee.Redmond@yopmail.com,16a64fad-9b03-46d2-b981-ecb1c8604c7a,Pulmonary function tests,361947
+134,Shirlee,Anselmi,Shirlee.Anselmi@yopmail.com,b7742f72-3e91-43de-9473-30354e776d8d,Management of complex infections,761048
+134,Shirlee,Anselmi,Shirlee.Anselmi@yopmail.com,3a7300f6-8a3b-4788-a379-9c2d750c7894,Chronic disease management,354598
+716,Melanie,Zola,Melanie.Zola@yopmail.com,6bfc1eea-d6b3-432b-ae1b-bcd4b84b1839,Hormone replacement therapy,24833
+353,Raina,Fabiola,Raina.Fabiola@yopmail.com,8f8d8e89-df0c-4c3b-b823-92e0677ce5cd,Epidural analgesia during labor,220815
+353,Raina,Fabiola,Raina.Fabiola@yopmail.com,7d933f0c-f1a8-4115-ac6c-163e524f14e2,Intensive care management,654548
+353,Raina,Fabiola,Raina.Fabiola@yopmail.com,d8536b2a-9aa0-4566-b20d-d35debb94b87,LASIK eye surgery,963240
+155,Joelly,Anyah,Joelly.Anyah@yopmail.com,85d8ab74-4223-4fb0-a1fb-557c16617986,Allergy testing,520455
+522,Ardys,Ortrude,Ardys.Ortrude@yopmail.com,eff9367e-f3fe-4eb8-bfb2-f6e0109205ef,Psychotherapy,891578
+522,Ardys,Ortrude,Ardys.Ortrude@yopmail.com,ad1d3887-8978-4961-af78-430cf74d2526,Psychotherapy,150478
+609,Jemie,Alva,Jemie.Alva@yopmail.com,637db190-7624-4f8f-96c3-2f9b2191f072,Bronchoscopy,607358
+482,Annora,Jillane,Annora.Jillane@yopmail.com,a3d9a7df-a5b9-4ff4-a5a6-486fe85aaa8e,Antibiotic therapy,477578
+482,Annora,Jillane,Annora.Jillane@yopmail.com,722c0314-f80d-444c-b389-4340203680de,Endoscopy,86619
+482,Annora,Jillane,Annora.Jillane@yopmail.com,18a192a7-ddc7-454b-ac4c-8202c2d705ce,Symptom management for end-of-life care,438132
+431,Dianemarie,Ferrell,Dianemarie.Ferrell@yopmail.com,39c09a4f-a364-485a-b731-387946747e3d,Cardiology:,145502
+431,Dianemarie,Ferrell,Dianemarie.Ferrell@yopmail.com,fd8c8de0-2d90-4389-8bc2-07f062a1dd57,Bronchoscopy,39206
+431,Dianemarie,Ferrell,Dianemarie.Ferrell@yopmail.com,77020597-e652-473f-9920-afbfc7c92f8f,Internal medicine consultations,545409
+768,Mignon,Lattie,Mignon.Lattie@yopmail.com,774686c3-62d0-44fe-86d6-38350aed5f1d,Electroconvulsive therapy (ECT),265106
+207,Carree,Brotherson,Carree.Brotherson@yopmail.com,8372daa0-b206-4735-b158-fbb917276192,Pediatric surgery,413129
+736,Augustine,Raama,Augustine.Raama@yopmail.com,13f20df7-9808-42a7-8d05-11cbcaad7268,Retinal surgery,607829
+281,Marguerite,Silvan,Marguerite.Silvan@yopmail.com,097dc94e-eb81-4fdb-b1da-a60d4a4c9c4c,Radiation therapy,156591
+600,Devina,Hoenack,Devina.Hoenack@yopmail.com,a8f11eec-119a-4a62-ad65-6cb6f1325f67,Insulin pump management for diabetes,857895
+600,Devina,Hoenack,Devina.Hoenack@yopmail.com,36f63864-cb01-40d7-a20e-1b52eacc7934,Orthopedic surgery,435633
+421,Queenie,Haldas,Queenie.Haldas@yopmail.com,c0bbde22-3273-407d-a95d-add7fd83df0d,Surgical oncology,962869
+421,Queenie,Haldas,Queenie.Haldas@yopmail.com,639b2a7e-eadf-4fd3-ba61-737803c71bcb,Immunizations,355657
+881,Maye,Kannry,Maye.Kannry@yopmail.com,c3fb245c-0389-468d-bc88-c6f9a004e4e2,Rhinoplasty,497541
+435,Taffy,Olympium,Taffy.Olympium@yopmail.com,6321c1d8-6188-4a47-a135-13985eb79bb0,Allergy testing,540435
+435,Taffy,Olympium,Taffy.Olympium@yopmail.com,8b528fb4-79bf-4d4b-b841-7c75e61ff797,Kidney transplant,157660
+490,Codie,Bandeen,Codie.Bandeen@yopmail.com,7bd3b914-1345-431e-9e41-468fbe8b4186,Electroconvulsive therapy (ECT),873461
+613,Zia,Wildermuth,Zia.Wildermuth@yopmail.com,a3d8df6d-eed8-4ef6-baa1-244005550e58,Coronary artery bypass surgery,172902
+615,Rosene,Devlen,Rosene.Devlen@yopmail.com,081fc344-dfd0-4d14-8647-96f68ab0245d,Electroconvulsive therapy (ECT),285134
+615,Rosene,Devlen,Rosene.Devlen@yopmail.com,6ffdd749-32b1-42d3-b4db-6f282fded53f,Insulin pump management for diabetes,189880
+214,Janey,Bearnard,Janey.Bearnard@yopmail.com,1503ab27-9c4a-4239-981e-67e8ca838471,Anesthetic care during childbirth,707194
+264,Elsie,Bivins,Elsie.Bivins@yopmail.com,e22ba006-f3d0-4018-a0de-1d9f548a1c0d,Ventilation support,81526
+308,Noelle,Hailee,Noelle.Hailee@yopmail.com,97c2c7aa-31e3-4b9d-bab5-59bce879a753,Pacemaker implantation,637413
+370,Fanchon,Bennie,Fanchon.Bennie@yopmail.com,e888f454-0d30-4c70-8d61-af0440059101,"X-rays, CT scans, MRI scans",558138
+370,Fanchon,Bennie,Fanchon.Bennie@yopmail.com,bb9035a9-af9f-442a-b599-8eda324a9b78,Dialysis,869051
+734,Carilyn,Rosemary,Carilyn.Rosemary@yopmail.com,b134ec92-b0ce-451a-9f5f-8bfbf96cc02f,Immunotherapy (allergy shots),766908
+771,Ninnetta,Oneida,Ninnetta.Oneida@yopmail.com,fad5a8f3-5bc6-454f-bdf1-8b349dad2cbb,Dialysis,642820
+138,Sherrie,Alcott,Sherrie.Alcott@yopmail.com,e64ba511-5ec7-4b0c-8493-27318fd2492b,Orthopedic surgery,801951
+138,Sherrie,Alcott,Sherrie.Alcott@yopmail.com,0eb9911f-a9aa-41d2-a410-a42f9d2fee85,Emotional and spiritual support,586045
+718,Bettine,Lareena,Bettine.Lareena@yopmail.com,0d74df3b-7683-4b02-acb5-b44026174932,Psychotherapy,195281
+466,Myrtice,Oriana,Myrtice.Oriana@yopmail.com,6014f497-f623-4ae8-9f5e-2e28f56f7334,Pediatric surgery,88500
+466,Myrtice,Oriana,Myrtice.Oriana@yopmail.com,1f2d6c5b-d4f0-4c24-a988-2c6ff302f3f2,Endoscopy,681186
+379,Tracey,Martguerita,Tracey.Martguerita@yopmail.com,686a1864-165e-4ce1-b879-10fe8c01cb63,Hormone replacement therapy,356212
+379,Tracey,Martguerita,Tracey.Martguerita@yopmail.com,74284673-6ea4-4b8a-af92-613cb8a57d71,Hemodynamic monitoring,592511
+778,Katleen,Lewes,Katleen.Lewes@yopmail.com,2b8951e8-0115-4a75-af4d-49c0b42c3066,Thyroid biopsy,362028
+453,Ginnie,Doig,Ginnie.Doig@yopmail.com,a4cddc94-b5b4-414e-bac1-569a1c360c77,Cardiology:,340854
+453,Ginnie,Doig,Ginnie.Doig@yopmail.com,cdf4d11f-01c7-4fbe-8783-cd3049f58a82,Dialysis,74295
+453,Ginnie,Doig,Ginnie.Doig@yopmail.com,fbf869b5-5962-4e1c-98a7-174a19b15e13,Thyroid biopsy,660595
+791,Minda,Haymes,Minda.Haymes@yopmail.com,999b38ba-e37d-4fa8-804a-c9736df75896,Coronary artery bypass surgery,321628
+526,Consuela,Yusuk,Consuela.Yusuk@yopmail.com,6ab62e5c-57dc-424f-8fd1-c228c20c45ca,Pulmonary function tests,552989
+526,Consuela,Yusuk,Consuela.Yusuk@yopmail.com,0ee13477-0332-426c-8fde-40d9199d3e33,Rhinoplasty,133562
+526,Consuela,Yusuk,Consuela.Yusuk@yopmail.com,447c1408-52a8-438c-a650-c60441d9f8d8,Symptom management for end-of-life care,505655
+597,Mady,Marcellus,Mady.Marcellus@yopmail.com,a68cc166-08d5-4f09-a456-05164653e90d,Hemodynamic monitoring,299671
+185,Carolina,Sparhawk,Carolina.Sparhawk@yopmail.com,4d7df9f2-ae4e-489e-929c-ef0a6ae7ce47,Emergency surgical procedures,134921
+993,Brietta,Stanwood,Brietta.Stanwood@yopmail.com,4abfca17-5674-4f23-8ebe-0b6ab0cc074e,Immunotherapy (allergy shots),94809
+961,Ruthe,Garbe,Ruthe.Garbe@yopmail.com,9b3187be-0d0b-465f-8f75-89f0fb0d0466,Minor surgical procedures,400378
+961,Ruthe,Garbe,Ruthe.Garbe@yopmail.com,186b9a90-4e5c-41c3-a4cc-4faee9f2bfbd,Pacemaker implantation,515173
+961,Ruthe,Garbe,Ruthe.Garbe@yopmail.com,45a91b43-cf05-401c-a7ec-1f6c5108068c,Sedation for minor procedures,973869
+960,Lorie,Dielu,Lorie.Dielu@yopmail.com,93dd9c3c-046a-41b9-beba-328e955f3312,Advanced cardiac life support,748104
+131,Jaclyn,Euridice,Jaclyn.Euridice@yopmail.com,51f3bbe7-7083-40c3-9d5b-eba2b1e3fbf2,Internal medicine consultations,97304
+131,Jaclyn,Euridice,Jaclyn.Euridice@yopmail.com,0a8f94e7-5efc-4bc7-9796-b2cf5417dd80,Anesthetic care during childbirth,458455
+383,Konstance,Dichy,Konstance.Dichy@yopmail.com,260ee750-4c38-40ab-af28-cf1ac1d0ce9e,Epidural analgesia during labor,237555
+146,Evita,Ricki,Evita.Ricki@yopmail.com,c0aa0126-de78-467f-8db3-b05a8f9f10e0,Interventional radiology procedures,582071
+146,Evita,Ricki,Evita.Ricki@yopmail.com,77079efb-ad81-49cb-9f98-a13caef273d7,Immunotherapy (allergy shots),36532
+146,Evita,Ricki,Evita.Ricki@yopmail.com,fd90a602-e4b6-4bc0-94ae-ecf49dd5bbc2,Allergy testing,129040
+260,Brynna,Ahab,Brynna.Ahab@yopmail.com,646112f0-af9c-480f-80d6-bdb6f0f596b7,Epidural analgesia during labor,903256
+198,Sue,Guildroy,Sue.Guildroy@yopmail.com,3fa50713-ae5f-4b80-ad39-8072e0dd8cd7,Colonoscopy,416538
+198,Sue,Guildroy,Sue.Guildroy@yopmail.com,4807a346-4cd3-49e2-bc02-fe6b4ab2864a,Interventional radiology procedures,984094
+198,Sue,Guildroy,Sue.Guildroy@yopmail.com,020591ef-0373-4bac-a1e1-71e3107e8c9a,Symptom management for end-of-life care,396549
+227,Brooks,Chem,Brooks.Chem@yopmail.com,970f3db6-6502-4a98-a455-2ab071c24673,Coronary artery bypass surgery,262975
+507,Winny,Dreda,Winny.Dreda@yopmail.com,07845def-b315-49b6-9a5b-25a75a349ace,Chronic disease management,990073
+507,Winny,Dreda,Winny.Dreda@yopmail.com,eea2ca70-e268-4e48-8dec-dd411a1a2796,"X-rays, CT scans, MRI scans",801357
+870,Carolina,Carbo,Carolina.Carbo@yopmail.com,6dbc09dd-54b0-4cd9-aa5d-bdcba2ec307c,Internal medicine consultations,281875
+900,Kristan,Ortrude,Kristan.Ortrude@yopmail.com,784c1ece-02c2-48ac-bb59-0203d8cd0862,Dialysis,493552
+900,Kristan,Ortrude,Kristan.Ortrude@yopmail.com,105b17ba-5076-48ee-b987-2a1b6b75fd1d,Laser therapy for skin conditions,585170
+373,Asia,Bendick,Asia.Bendick@yopmail.com,2cb186e5-6459-4ec9-a860-cb85f3b28db9,Polypharmacy management,43166
+373,Asia,Bendick,Asia.Bendick@yopmail.com,6db9ff7d-7a30-4b0b-923f-3c0afca74754,General surgery,866273
+373,Asia,Bendick,Asia.Bendick@yopmail.com,d0f523c6-f8b8-4bd9-8d05-cc628204e506,Dermatologic surgery,357323
+373,Asia,Bendick,Asia.Bendick@yopmail.com,f3bb0d7a-52e8-4447-abbd-2c79be0a3ef2,Ventilation support,307213
+373,Asia,Bendick,Asia.Bendick@yopmail.com,c5578492-6510-4cdf-802c-27bc7e8c2c91,Mechanical ventilation,707696
+920,Ann-Marie,Maurine,Ann-Marie.Maurine@yopmail.com,3355aa3f-dc24-4ea3-b16f-f19e8c8912a5,Radiation therapy,974892
+920,Ann-Marie,Maurine,Ann-Marie.Maurine@yopmail.com,358b6964-26f9-41fb-8c32-40a589f06094,Electroconvulsive therapy (ECT),402235
+403,Ericka,Ortrude,Ericka.Ortrude@yopmail.com,d399008b-7da1-4561-a673-bca69ae9753f,Plastic surgery,15151
+694,Paola,Swigart,Paola.Swigart@yopmail.com,a923a7d7-a96c-40d7-9663-2e0e73b8ba14,Dialysis,784050
+694,Paola,Swigart,Paola.Swigart@yopmail.com,59ac6a82-e434-4678-b246-b9a50f7d0760,Symptom management for end-of-life care,598206
+410,Ilse,Felecia,Ilse.Felecia@yopmail.com,79266df2-e92e-4471-ae5f-9ef6ec6678b8,Ventilation support,998106
+393,Fanchon,Eachern,Fanchon.Eachern@yopmail.com,f87758bb-2058-42a6-9bd3-f07ace997c2d,Radiation therapy,73477
+122,Janenna,Croix,Janenna.Croix@yopmail.com,55319bb4-b2d1-4c0e-961e-327169fa8043,Pediatric surgery,468251
+130,Ermengarde,Izaak,Ermengarde.Izaak@yopmail.com,5db80393-13e9-4ae8-9c1f-22046d71be00,Management of complex medical conditions,60348
+1000,Noelle,Grayce,Noelle.Grayce@yopmail.com,9e295f31-a028-4e75-85b6-6bbd58f60b02,Colonoscopy,853016
+1000,Noelle,Grayce,Noelle.Grayce@yopmail.com,d303aead-1dae-4ca0-b980-878060617863,Rhinoplasty,639461
+866,Annabela,Gabrielli,Annabela.Gabrielli@yopmail.com,86157d5f-911b-4f85-9e0b-9a2ff390d6c2,Dialysis,893710
+520,Nicoli,Seligman,Nicoli.Seligman@yopmail.com,7caa60fc-d947-4f59-8150-a6256aa82b72,Endoscopy,923677
+145,Jacquetta,Kirbee,Jacquetta.Kirbee@yopmail.com,fd077627-55cf-4913-952c-da2b19e935f1,Cardiology:,165655
+576,Stevana,Henrie,Stevana.Henrie@yopmail.com,d27c05bd-319b-48ad-bfa1-df5aae68d794,,379148
+681,Andeee,Devlen,Andeee.Devlen@yopmail.com,271c84d7-aae9-4277-b323-f0b5ed264d97,Liver biopsy,693542
+962,Jere,Therine,Jere.Therine@yopmail.com,e379807a-77cd-41b5-a31e-c523378d9d52,Bronchoscopy,45265
+962,Jere,Therine,Jere.Therine@yopmail.com,5c08599d-f391-48c7-a586-ed947c8e8bda,Advanced cardiac life support,754556
+319,Bernardine,Stuart,Bernardine.Stuart@yopmail.com,e2403ff4-1805-469d-bad5-eb1d3d3c6487,Radiation therapy,633427
+802,Barbi,Lindemann,Barbi.Lindemann@yopmail.com,eb5fc06b-5059-424d-9e66-e22d8a8fc79d,Interventional radiology procedures,676614
+877,Nelle,Prouty,Nelle.Prouty@yopmail.com,a479402f-0e11-4047-a18b-4237aa493130,Insulin pump management for diabetes,688334
+877,Nelle,Prouty,Nelle.Prouty@yopmail.com,a7f6ccba-c463-4090-82c4-a5e0ad309714,Minor surgical procedures,499212
+553,Tersina,Linskey,Tersina.Linskey@yopmail.com,033fe792-06a5-4625-8f28-383b0dc264ff,Antibiotic therapy,144746
+995,Robbi,Berl,Robbi.Berl@yopmail.com,cad0bf3c-bd34-4f7a-9be5-9c79a3e94c4b,Insulin pump management for diabetes,389777
+570,Cassondra,Vins,Cassondra.Vins@yopmail.com,307855fb-ea2c-4f3f-9940-fe3b594cc02d,Tonsillectomy and adenoidectomy,884277
+570,Cassondra,Vins,Cassondra.Vins@yopmail.com,be8231d5-0e26-4960-b2ee-513ea4904b1e,Pediatric surgery,615284
+591,Leona,Ralfston,Leona.Ralfston@yopmail.com,92e4bb8f-525f-4d73-b49a-9daecb405a22,Lumbar puncture,948456
+884,Krystle,Ashok,Krystle.Ashok@yopmail.com,b543623f-6a9d-46e1-a2ab-8e79982196c5,Sedation for minor procedures,710438
+619,Kristina,Ackerley,Kristina.Ackerley@yopmail.com,66a4418f-9d3f-4e11-a252-c47c2bca3dd0,Retinal surgery,883238
+619,Kristina,Ackerley,Kristina.Ackerley@yopmail.com,25e9f3e9-1b47-4bed-b31b-9eba0f866134,Management of complex infections,458642
+359,Amalie,Stephie,Amalie.Stephie@yopmail.com,4fe09704-7697-41ca-a5d4-e9fb0ffeba50,Dermatologic surgery,38141
+359,Amalie,Stephie,Amalie.Stephie@yopmail.com,2cb41f63-a4e7-4efb-95ee-eb0ecae52e9f,Dementia care,977776
+966,Kelly,Kaete,Kelly.Kaete@yopmail.com,2a859471-a6ae-4147-9141-41c1597e30a8,Angioplasty and stent placement,503476
+463,Loree,Lutero,Loree.Lutero@yopmail.com,231c7faf-315f-4b4b-92c6-cc482f99a7ad,Tonsillectomy and adenoidectomy,432009
+647,Bernardine,August,Bernardine.August@yopmail.com,798db999-0d69-48a8-9eaa-127b3226864d,Dermatologic surgery,575431
+604,Neila,Tremayne,Neila.Tremayne@yopmail.com,04ce4206-0281-400c-982c-f28fee2bc8c8,General health check-ups,42169
+121,Correy,Pozzy,Correy.Pozzy@yopmail.com,eff56802-2e1f-4f22-95a2-4a6e3183bd89,Laser therapy for skin conditions,114657
+116,Babita,Felecia,Babita.Felecia@yopmail.com,c419c0f6-0087-4bcf-8b88-414dcf988e20,Angioplasty and stent placement,786064
+116,Babita,Felecia,Babita.Felecia@yopmail.com,83085a36-a180-440e-a841-039904248d12,General anesthesia for surgeries,362072
+116,Babita,Felecia,Babita.Felecia@yopmail.com,0e2ca298-91e0-47ef-8a23-e0cae2f9bf5b,Liver biopsy,599208
+595,Aubrie,Carolin,Aubrie.Carolin@yopmail.com,f0d0f959-93c1-46b4-b4ce-f96ac9706eeb,Immunizations,470194
+595,Aubrie,Carolin,Aubrie.Carolin@yopmail.com,49795d0b-935e-4d04-983c-34955d77c8b2,Rhinoplasty,348064
+371,Zaria,Durware,Zaria.Durware@yopmail.com,f24edfb1-11aa-4a3f-8a99-7119109b69a4,Management of complex medical conditions,16114
+371,Zaria,Durware,Zaria.Durware@yopmail.com,46563793-f390-4b26-bf8a-2a03d8dcd288,Sedation for minor procedures,472275
+854,Berget,Hirsch,Berget.Hirsch@yopmail.com,3eabc02f-e021-47d3-8ebc-6b21919547be,Pacemaker implantation,465336
+854,Berget,Hirsch,Berget.Hirsch@yopmail.com,e727a28b-8f4b-403a-b111-14982edc9e0b,Liver biopsy,478910
+854,Berget,Hirsch,Berget.Hirsch@yopmail.com,0701598c-3b90-49bc-9337-b2e4b2dbbbca,Thyroid biopsy,410465
+863,Yetty,Sherfield,Yetty.Sherfield@yopmail.com,f45dede9-a727-4c82-a9bc-373d648559c1,Orthopedic surgery,171290
+190,Amara,Sawtelle,Amara.Sawtelle@yopmail.com,dc60364c-8392-4072-88c3-ac614c5463fb,General health check-ups,828872
+876,Robbi,Bakerman,Robbi.Bakerman@yopmail.com,4acc024a-cb1e-4489-b8ac-baa46c5752e7,Intensive care management,309808
+876,Robbi,Bakerman,Robbi.Bakerman@yopmail.com,dbd37ffc-3f12-494d-a236-a779c578b3dc,Orthopedic surgery,300087
+250,Vonny,Lissi,Vonny.Lissi@yopmail.com,7c865e23-41c1-4ec8-9aae-5048cff09a2e,Mechanical ventilation,709304
+914,Jemie,Baudin,Jemie.Baudin@yopmail.com,538aaa80-ea9b-4046-92eb-0e1326f6f37b,Dementia care,398182
+588,Eadie,Wattenberg,Eadie.Wattenberg@yopmail.com,3f10482c-9f2e-4260-bf37-700a68395b6e,,713514
+238,Phylis,Calhoun,Phylis.Calhoun@yopmail.com,2ebe493c-331c-4275-8cbc-99c49d497016,"Cosmetic procedures (e.g., Botox, fillers)",450981
+989,Johna,Terencio,Johna.Terencio@yopmail.com,54ad4a3c-d562-4616-aa9d-84bd9bbb26c7,Emergency surgical procedures,708383
+812,Fred,Graig,Fred.Graig@yopmail.com,75249464-0e5f-4fcd-95ba-aa65da016afc,Internal medicine consultations,49086
+812,Fred,Graig,Fred.Graig@yopmail.com,19ccbc2b-4da8-4c5c-a165-8c678405ba10,Emotional and spiritual support,346729
+812,Fred,Graig,Fred.Graig@yopmail.com,8aed0504-5cb8-4c5f-8543-a4f2b7c26374,Angioplasty and stent placement,91710
+940,Karolina,Roche,Karolina.Roche@yopmail.com,86a1017d-f979-4fb4-ba91-84e7f1e609c5,Anesthetic care during childbirth,63245
+940,Karolina,Roche,Karolina.Roche@yopmail.com,90fad6b9-4cce-4f53-afaa-4f85870ff0f8,Retinal surgery,615537
+940,Karolina,Roche,Karolina.Roche@yopmail.com,30e1fd9a-0463-4d0c-974a-13925eed888d,Endoscopy,907701
+368,Stephanie,Agle,Stephanie.Agle@yopmail.com,b1751a5e-c15e-4103-94b3-5edf906db165,Cardiology:,689203
+368,Stephanie,Agle,Stephanie.Agle@yopmail.com,3a354035-5ed7-44f7-83ab-ab5ff56cb5bf,Chronic disease management,887604
+368,Stephanie,Agle,Stephanie.Agle@yopmail.com,88d04b3b-3fa3-45b2-936d-9927d4aa4a09,Colonoscopy,910288
+368,Stephanie,Agle,Stephanie.Agle@yopmail.com,536ce37d-b92d-4483-9821-fdd5de657913,Thyroid biopsy,949608
+352,Cam,Dorothy,Cam.Dorothy@yopmail.com,05439441-06a0-4823-a69d-b407b7bf36de,Cochlear implant surgery,476800
+352,Cam,Dorothy,Cam.Dorothy@yopmail.com,35761112-77f7-4c7e-80f8-876433687e08,Hormone replacement therapy,171797
+305,Grier,Ummersen,Grier.Ummersen@yopmail.com,f1bf4b26-8791-401c-b975-6f3304c7d113,Polypharmacy management,87017
+673,Keelia,Kauppi,Keelia.Kauppi@yopmail.com,96fd2bf1-9894-40cd-9076-fcd632b00940,Insulin pump management for diabetes,831409
+178,Konstance,Vary,Konstance.Vary@yopmail.com,503d0b35-b5fe-422d-8f96-c51121f048eb,Pediatric surgery,604228
+178,Konstance,Vary,Konstance.Vary@yopmail.com,d05ec7a7-5d26-43c4-8c4c-2bd2fdfe36c8,Anesthetic care during childbirth,180175
+182,Annice,Randene,Annice.Randene@yopmail.com,708b2094-4aaf-4b4d-bf3b-fe2ff5b97c6e,Psychotherapy,701045
+182,Annice,Randene,Annice.Randene@yopmail.com,e4bc4c42-ae6b-49e2-abf2-cf49bc837c3e,Immunizations,306699
+182,Annice,Randene,Annice.Randene@yopmail.com,d6beab1a-1fb7-4e57-897c-5b51eb88ff66,Kidney transplant,833547
+621,Tarra,Bouchard,Tarra.Bouchard@yopmail.com,a341302e-11c6-46f6-aceb-b8db6d13e919,Thyroid biopsy,545986
+516,Maurene,Adrienne,Maurene.Adrienne@yopmail.com,ee19a34f-f299-4f1b-b936-25e987d9e821,Rhinoplasty,248502
+516,Maurene,Adrienne,Maurene.Adrienne@yopmail.com,a49edfa7-5a5f-4f70-95c9-ac77329d6e8f,Cochlear implant surgery,830242
+266,Ricky,Israeli,Ricky.Israeli@yopmail.com,9fcf32fb-6ba1-4f06-b972-fdb03e37a491,Sedation for minor procedures,761099
+409,Netty,Moseley,Netty.Moseley@yopmail.com,41f9f494-2488-43f3-9c9f-5591603fd184,Coronary artery bypass surgery,527922
+409,Netty,Moseley,Netty.Moseley@yopmail.com,5ecc04e5-5497-405d-b964-2a6527f16421,Hormone replacement therapy,684279
+409,Netty,Moseley,Netty.Moseley@yopmail.com,2b01e30c-d5e6-4a26-b1a4-eba8ec3e5773,Intensive care management,577907
+363,Alia,Wesle,Alia.Wesle@yopmail.com,28225bab-a65e-4f62-9735-a587da6fa796,,832506
+967,Cam,Beebe,Cam.Beebe@yopmail.com,df380891-803b-4e9f-bf86-34c858e6bf50,Rhinoplasty,384254
+142,Aurore,Garrison,Aurore.Garrison@yopmail.com,fbbd2c44-7724-41b6-98e2-31686e634142,Rhinoplasty,700723
+620,Ebonee,Gabrielli,Ebonee.Gabrielli@yopmail.com,77f99ff4-527f-4fe6-a7a9-5c45c8ea626a,General surgery,793561
+883,Merci,Clara,Merci.Clara@yopmail.com,52adc282-dae6-4099-98f4-86cd1d5702ff,Surgical oncology,218009
+188,Tybie,Sandye,Tybie.Sandye@yopmail.com,08a3cda2-ef34-412d-87a0-2d9266981b01,Insulin pump management for diabetes,655839
+328,Pierette,Atcliffe,Pierette.Atcliffe@yopmail.com,b9503f16-aea6-4f30-ae99-80e292d9345b,Immunizations,766185
+149,Drucie,Nedrud,Drucie.Nedrud@yopmail.com,74b46000-aa0a-4b1d-9ab4-2e246ffa95a8,Epidural analgesia during labor,408676
+175,Magdalena,Alabaster,Magdalena.Alabaster@yopmail.com,71c8c4b7-d838-41c6-863c-8a559dc31f2f,Tonsillectomy and adenoidectomy,657544
+175,Magdalena,Alabaster,Magdalena.Alabaster@yopmail.com,0a9195ad-9537-4d52-bbb7-c1c84faa4f9c,Medication management,352199
+175,Magdalena,Alabaster,Magdalena.Alabaster@yopmail.com,e1ee0da3-5d6e-4d18-b92a-48d3cdfb4d28,Immunotherapy (allergy shots),569769
+416,Rosene,Anestassia,Rosene.Anestassia@yopmail.com,b9cf21dc-b71d-4e92-9ee5-9ce5e9ecb410,Angioplasty and stent placement,984498
+416,Rosene,Anestassia,Rosene.Anestassia@yopmail.com,ad399b1d-72b0-4d54-8133-869d30254be9,Pediatric surgery,68135
+416,Rosene,Anestassia,Rosene.Anestassia@yopmail.com,36dce652-8398-4b4f-9156-8fe13e858c58,Bronchoscopy,458514
+733,Lesly,Arquit,Lesly.Arquit@yopmail.com,02b40ab2-68d5-46ab-b6c0-06ffbd7c3879,General anesthesia for surgeries,649728
+733,Lesly,Arquit,Lesly.Arquit@yopmail.com,59737454-9649-4d28-bc19-f996508362f1,Medication management,166012
+733,Lesly,Arquit,Lesly.Arquit@yopmail.com,acd32ac8-09a7-4f08-9ce1-426ac751ea9a,Management of complex infections,904470
+733,Lesly,Arquit,Lesly.Arquit@yopmail.com,cfd12baa-d619-46d5-b294-9e72439b4e0c,Trauma resuscitation,995034
+733,Lesly,Arquit,Lesly.Arquit@yopmail.com,9a0fdc59-ee84-4fd6-9c35-e5cea3d0970d,Surgical oncology,751585
+733,Lesly,Arquit,Lesly.Arquit@yopmail.com,2bbd9358-8089-455a-bd7d-5c828f795906,Epidural analgesia during labor,568320
+195,Korrie,Pattin,Korrie.Pattin@yopmail.com,44ba139f-fd27-4386-a57e-1b49c42ebf0f,Rhinoplasty,598801
+195,Korrie,Pattin,Korrie.Pattin@yopmail.com,a68742b3-f728-4a99-bd62-567c437a5aca,Emotional and spiritual support,950461
+254,Ketti,Monk,Ketti.Monk@yopmail.com,17af6d9b-a2e8-4545-9bbf-6a34f46181c7,Cardiology:,501983
+254,Ketti,Monk,Ketti.Monk@yopmail.com,5ece245f-7275-4995-af27-d04100e3b93b,EEG (Electroencephalogram),643696
+103,Lusa,Alisia,Lusa.Alisia@yopmail.com,ae4925c5-a887-4bc5-ba68-9f30593d3e7a,Nephrectomy,203301
+103,Lusa,Alisia,Lusa.Alisia@yopmail.com,1049e07d-b5b7-48ae-ba01-9a5076f71042,General anesthesia for surgeries,941657
+457,Ebonee,Bari,Ebonee.Bari@yopmail.com,f9a0466a-2511-4f12-b20c-a6aa7ddef822,Kidney transplant,158030
+948,Jere,Sabella,Jere.Sabella@yopmail.com,4e03bf9a-35fd-4b2c-a198-21e843033192,Surgical oncology,489801
+497,Merry,Revkah,Merry.Revkah@yopmail.com,1484e0db-00b4-4522-a746-06a145d7d540,Dialysis,750799
+828,Andree,Koziara,Andree.Koziara@yopmail.com,37ecd22f-58c2-4939-9f8f-fa4cbd72aebf,Minor surgical procedures,314276
+828,Andree,Koziara,Andree.Koziara@yopmail.com,7afb6524-1327-46ec-b086-bce4fc801ae4,Emergency surgical procedures,562898
+143,Micheline,Eugenia,Micheline.Eugenia@yopmail.com,acd69870-94cc-4594-b079-ae4e32376d1a,Kidney transplant,418879
+143,Micheline,Eugenia,Micheline.Eugenia@yopmail.com,187faac4-bd62-4523-9682-2e4accb5cc58,Comprehensive geriatric assessment,931836
+212,Annice,Gino,Annice.Gino@yopmail.com,82733565-b551-4288-b8f7-5413c53db2c2,Mechanical ventilation,592444
+587,Alex,Mallon,Alex.Mallon@yopmail.com,c53b172c-4494-4a43-9332-883be6f9aee4,Radiation therapy,356956
+838,Heida,Sisile,Heida.Sisile@yopmail.com,e0438e4c-ad8f-428e-90e8-350959061f60,,27467
+225,Ivett,Gaal,Ivett.Gaal@yopmail.com,20900994-e5af-44d0-b3c4-a510fac394f7,Advanced cardiac life support,395603
+141,Maye,McLaughlin,Maye.McLaughlin@yopmail.com,e93e2743-dcb1-42b6-94e5-8a2ef210ae69,Angioplasty and stent placement,666508
+141,Maye,McLaughlin,Maye.McLaughlin@yopmail.com,b7fbacaa-29d3-4c8b-b076-2fb76dcf1cde,Advanced cardiac life support,627535
+336,Gilda,Thilda,Gilda.Thilda@yopmail.com,0bbaf782-8ed0-4f48-b787-c8a8cfb87ddd,Pulmonary function tests,494270
+336,Gilda,Thilda,Gilda.Thilda@yopmail.com,7cc960f0-666e-4f22-bc32-61e586c493a2,Emotional and spiritual support,959391
+970,Ira,Helve,Ira.Helve@yopmail.com,1ac8a194-b452-4e95-a415-a56333ddeaaa,Chemotherapy,825064
+593,Dagmar,Suzetta,Dagmar.Suzetta@yopmail.com,52e36ac9-d976-47c4-b310-d07d581278fb,Cataract surgery,39971
+857,Beth,Audly,Beth.Audly@yopmail.com,297f1d29-b967-4477-8b60-c9f8796c297b,Interventional radiology procedures,504517
+857,Beth,Audly,Beth.Audly@yopmail.com,cd6fe358-7aaa-462d-a84a-55c39ba451d8,Chronic disease management,562650
+471,Neila,Heisel,Neila.Heisel@yopmail.com,18d1afc8-a768-4d63-8718-11c55320231a,Dermatologic surgery,379798
+891,Lucy,Leary,Lucy.Leary@yopmail.com,66747be9-017e-4d0f-9858-200f9b525e50,Psychotherapy,513684
+692,Tori,Stacy,Tori.Stacy@yopmail.com,4c8950c0-108c-491d-bdf3-db61775ccc03,Retinal surgery,870314
+692,Tori,Stacy,Tori.Stacy@yopmail.com,db6c0fca-fbc0-482a-ab94-0d9d6fcc6bc9,General health check-ups,860765
+356,Ketti,Infield,Ketti.Infield@yopmail.com,2b0b6d8e-99d9-46ba-8310-45d095d228da,Sedation for minor procedures,928305
+356,Ketti,Infield,Ketti.Infield@yopmail.com,eb7c9204-ea8e-4a1d-83b4-f5a32f0d1324,Immunizations,405110
+909,Cassondra,Audly,Cassondra.Audly@yopmail.com,a4e66722-1884-4672-a70c-e1d5cd2a0210,Well-child check-ups,244088
+531,Brana,Redmond,Brana.Redmond@yopmail.com,aeb32e0a-1ecb-4f40-b490-443c9d253e89,LASIK eye surgery,321906
+531,Brana,Redmond,Brana.Redmond@yopmail.com,0f3d543b-1968-443e-aaa0-eee57a53906b,Surgical oncology,607491
+664,Monika,Leary,Monika.Leary@yopmail.com,9f134665-0ecc-446a-9784-0a4cc08b6979,Psychotherapy,44177
+664,Monika,Leary,Monika.Leary@yopmail.com,5a40ea44-99a8-4b06-bd9d-c5962d2a63fe,Well-child check-ups,26117
+814,Merci,Laurianne,Merci.Laurianne@yopmail.com,d18ea235-04d9-4861-94ff-d97f0c27561f,Chronic disease management,145410
+722,Millie,Schwejda,Millie.Schwejda@yopmail.com,7d11f5f3-faf6-428f-890c-f70d3ea7c9ca,Intensive care management,554697
+879,Mildrid,Bakerman,Mildrid.Bakerman@yopmail.com,679bdd5b-484c-48b8-9027-d63fd07a6565,Angioplasty and stent placement,734324
+879,Mildrid,Bakerman,Mildrid.Bakerman@yopmail.com,1042f373-21e1-47d5-88ac-87ef74eaf7bd,Emergency surgical procedures,985052
+879,Mildrid,Bakerman,Mildrid.Bakerman@yopmail.com,e6760f4e-faf3-4642-be7a-2f1240ab276a,LASIK eye surgery,566544
+389,Shandie,Koziara,Shandie.Koziara@yopmail.com,5296d704-915b-4ed7-b7cd-b29e4db5e19c,Surgical oncology,450473
+389,Shandie,Koziara,Shandie.Koziara@yopmail.com,f41b5e06-bedc-4775-9354-93e6feb1c02f,Medication management,181171
+968,Merle,Charity,Merle.Charity@yopmail.com,a9c37790-7a3c-461e-9743-af64036109c0,Chemotherapy,58495
+152,Winifred,Kazimir,Winifred.Kazimir@yopmail.com,26c75178-4cb7-4595-8c6c-c1102c3a4f37,Insulin pump management for diabetes,317985
+152,Winifred,Kazimir,Winifred.Kazimir@yopmail.com,bcb00828-34ff-4fa6-9f13-a448e00f509d,Insulin pump management for diabetes,104594
+565,Gabriellia,Pyle,Gabriellia.Pyle@yopmail.com,a8d8dc92-02d1-4b9f-a921-30863689c436,Bronchoscopy,71211
+545,Chandra,Alrich,Chandra.Alrich@yopmail.com,d4cfbe6e-9f1e-4cef-bc17-0661733236c5,Nephrectomy,665629
+648,Flory,Aloise,Flory.Aloise@yopmail.com,bb443be2-5f1f-4ddc-96fc-592249077711,Endoscopy,675371
+112,Elbertina,Dosia,Elbertina.Dosia@yopmail.com,a48f68fc-f2fb-490f-8327-4ba51300e674,Chronic disease management,975444
+504,Ingrid,Harl,Ingrid.Harl@yopmail.com,23bd5e84-0fd4-43f4-9a9a-eaffd727b67d,Dementia care,291178
+637,Merrie,Lilybelle,Merrie.Lilybelle@yopmail.com,2496302f-49c3-42b4-ba79-2788520f2794,General health check-ups,465030
+797,Oona,Kaja,Oona.Kaja@yopmail.com,0f9ece58-b150-4723-849e-50a1e3138e06,Pediatric surgery,478017
+797,Oona,Kaja,Oona.Kaja@yopmail.com,9da97edd-eba6-44cd-8e4f-c1876e3766a5,Allergy testing,600877
+377,Fred,Stover,Fred.Stover@yopmail.com,32c8f6fb-d8c1-446b-8820-a420f88ff939,Liver biopsy,995778
+118,Alexine,Isacco,Alexine.Isacco@yopmail.com,519e25c7-7ab4-4bf0-8ac2-e25263e6ad37,Chronic disease management,418597
+237,Janeczka,Kinnard,Janeczka.Kinnard@yopmail.com,1d0f5ba3-a668-4b12-8301-6b5b5d555d72,Chemotherapy,747178
+448,Wendi,Gilmour,Wendi.Gilmour@yopmail.com,fb593fb6-466a-4dc8-9a61-afbd9d4b5031,Cataract surgery,188997
+448,Wendi,Gilmour,Wendi.Gilmour@yopmail.com,412d804c-8768-4537-9893-4b983754f5eb,Chronic disease management,190397
+448,Wendi,Gilmour,Wendi.Gilmour@yopmail.com,bfe5eaad-9a1b-4c42-bd56-6dc663735244,Anesthetic care during childbirth,686742
+448,Wendi,Gilmour,Wendi.Gilmour@yopmail.com,8c8d3048-9658-4b95-bc32-ab5640e653d1,LASIK eye surgery,571430
+448,Wendi,Gilmour,Wendi.Gilmour@yopmail.com,335fcd7e-9337-4726-befb-f3be67edef23,Insulin pump management for diabetes,383021
+934,Sam,Cookie,Sam.Cookie@yopmail.com,ec171623-d9d0-4150-8f19-d9fb8fa7fccf,Anesthetic care during childbirth,732471
+543,Giustina,Fancie,Giustina.Fancie@yopmail.com,570423f3-beb9-415a-96fd-1293e4d118ae,Pacemaker implantation,366455
+291,Roz,Oster,Roz.Oster@yopmail.com,f8e457bc-db3d-4fab-a006-1bca312316cd,Plastic surgery,991090
+291,Roz,Oster,Roz.Oster@yopmail.com,15d0be2a-8578-4671-ae4a-44cbbc287fe6,Lumbar puncture,757458
+291,Roz,Oster,Roz.Oster@yopmail.com,f864a606-6d97-4cc9-b57f-38f042a82a3f,Medication management,309792
+536,Hayley,Lorenz,Hayley.Lorenz@yopmail.com,8fa2d385-0a62-49a7-8154-d02fdfe766d1,Well-child check-ups,919301
+536,Hayley,Lorenz,Hayley.Lorenz@yopmail.com,586131bb-3a46-4ee5-bb6b-1d667f08663b,General anesthesia for surgeries,767025
+985,Sallie,Yorick,Sallie.Yorick@yopmail.com,355bad72-5226-460e-97cb-0050738bd3dd,Kidney transplant,621978
+985,Sallie,Yorick,Sallie.Yorick@yopmail.com,48670ce3-1e5a-4298-a2f0-b97cf8ccebb5,Endoscopy,446723
+974,Cyb,Ivens,Cyb.Ivens@yopmail.com,8bdf4485-a0df-4af4-bafb-9e15a989cb8f,Laser therapy for skin conditions,750392
+916,Binny,Frodi,Binny.Frodi@yopmail.com,2503a866-2083-4470-8f06-603c53218c7c,Insulin pump management for diabetes,859275
+827,Mureil,Oriana,Mureil.Oriana@yopmail.com,d9517d7f-0972-47a8-bd2f-fea7d0cb08f6,Chemotherapy,16567
+626,Allis,Colleen,Allis.Colleen@yopmail.com,1bb4a7d7-a425-4f8a-9507-e3d95edf50c5,Cochlear implant surgery,249365
+626,Allis,Colleen,Allis.Colleen@yopmail.com,1abe446b-65f1-430e-8b23-96764ba1cbe3,Retinal surgery,859556
+972,Minda,MacIntosh,Minda.MacIntosh@yopmail.com,73b20b78-91b3-4f1b-b4a9-a53404e1dedd,Symptom management for end-of-life care,658438
+972,Minda,MacIntosh,Minda.MacIntosh@yopmail.com,ae40133c-f3b6-48b9-9d6c-0ab1aa07f01d,Colonoscopy,781673
+964,Clo,Cherianne,Clo.Cherianne@yopmail.com,10b4c0b8-0af3-4871-adb2-d0e201ec8db2,Dermatologic surgery,379606
+108,Antonietta,Claudine,Antonietta.Claudine@yopmail.com,6afd0f13-ab5f-47ff-a60f-eaf5aaa2a1e7,General surgery,943604
+702,Dari,Schroth,Dari.Schroth@yopmail.com,82c825a2-d7f7-44df-8284-9856ce60054e,Liver biopsy,422617
+395,Libbie,Burnside,Libbie.Burnside@yopmail.com,c7668fdf-bcbe-49d1-8fac-68fbda8648fa,Lumbar puncture,626659
+221,Benita,Ashok,Benita.Ashok@yopmail.com,f08d0548-a882-4765-b0b5-31cb13eb2254,Pulmonary function tests,327902
+221,Benita,Ashok,Benita.Ashok@yopmail.com,c059ee4a-c570-4c14-933c-c7a4901f8187,Anesthetic care during childbirth,914785
+456,Olwen,Uund,Olwen.Uund@yopmail.com,426b5dcb-f1cc-47b6-825a-a228b50427c8,Mechanical ventilation,526662
+456,Olwen,Uund,Olwen.Uund@yopmail.com,b2f63a38-c621-4acf-978d-fd639442f17f,EEG (Electroencephalogram),787377
+456,Olwen,Uund,Olwen.Uund@yopmail.com,be3ccdac-86c4-4246-bc7d-16dea05345da,Bronchoscopy,406196
+171,Barbi,Emmaline,Barbi.Emmaline@yopmail.com,bbdcdd99-e4f5-4c0e-9c24-fb280380d226,Bronchoscopy,41842
+751,Cacilie,Jotham,Cacilie.Jotham@yopmail.com,3dba88e2-adc9-49d6-bae0-67dba8d0d3a0,Plastic surgery,145188
+751,Cacilie,Jotham,Cacilie.Jotham@yopmail.com,215ec61e-6f53-46de-ad3a-b9b4da01027e,Cardiology:,793743
+751,Cacilie,Jotham,Cacilie.Jotham@yopmail.com,f2840d09-0bc3-4c42-822b-507ad2dbb945,Hemodynamic monitoring,259585
+896,Mireielle,Koziara,Mireielle.Koziara@yopmail.com,a2c4f80f-cd6d-4aef-bb55-def98089ed8b,"Cosmetic procedures (e.g., Botox, fillers)",382492
+921,Gavrielle,Kellby,Gavrielle.Kellby@yopmail.com,89f77fc3-27ad-4b41-a378-6b290643e079,General health check-ups,16767
+144,Susan,Evangelia,Susan.Evangelia@yopmail.com,768a02ed-990c-471c-84a1-6c057f2e9ec9,"Cosmetic procedures (e.g., Botox, fillers)",242216
+265,Merrie,Kellby,Merrie.Kellby@yopmail.com,569b1be9-f82f-47c0-acd6-d0ea74dda087,General surgery,355176
+327,Sybille,McClimans,Sybille.McClimans@yopmail.com,ba5de573-d555-479b-bb63-309ff1fbbc2f,Kidney transplant,133113
+498,Asia,Riordan,Asia.Riordan@yopmail.com,c2be44ca-64af-4004-8df0-005aeb60246e,Pediatric surgery,692480
+498,Asia,Riordan,Asia.Riordan@yopmail.com,bded4392-0b45-40f9-b475-899615a64314,General surgery,803815
+924,Ericka,Melan,Ericka.Melan@yopmail.com,df7696d3-993d-4e57-86e2-ba06547f4c31,"Cosmetic procedures (e.g., Botox, fillers)",942997
+104,Joane,Yam,Joane.Yam@yopmail.com,f57aaa96-2189-479c-a460-fdc6b9e71aef,Symptom management for end-of-life care,891700
+104,Joane,Yam,Joane.Yam@yopmail.com,0d62e5bf-aa71-4af8-9563-3f5b912b3b33,Hemodynamic monitoring,676780
+725,Judy,Shanley,Judy.Shanley@yopmail.com,0e164dc8-4974-4e85-bbea-01d42ba4ceda,Intensive care management,867765
+157,Yetty,Shanley,Yetty.Shanley@yopmail.com,33170f0c-fce0-4bdf-85ac-2d9ea7ed9c55,Emotional and spiritual support,269609
+703,Janenna,Uund,Janenna.Uund@yopmail.com,689e066a-8e84-4793-8140-8e3b09818340,Tonsillectomy and adenoidectomy,519205
+703,Janenna,Uund,Janenna.Uund@yopmail.com,f7460a3d-fb4c-4905-8542-b01dd2548295,Bronchoscopy,870433
+696,Grier,Noam,Grier.Noam@yopmail.com,8d576f6c-0f48-4344-8b05-f711b1cf9e4d,LASIK eye surgery,408017
+462,Nickie,Kiersten,Nickie.Kiersten@yopmail.com,712bccd8-a487-4168-bc49-b9c61bf10bb6,Pacemaker implantation,670244
+462,Nickie,Kiersten,Nickie.Kiersten@yopmail.com,915bb884-005e-4175-85d5-b34411d21504,Advanced cardiac life support,614806
+941,Farrah,Linehan,Farrah.Linehan@yopmail.com,51c579cf-43dc-4797-932f-da02eb288e9b,Chronic disease management,505123
+181,Clarice,Willie,Clarice.Willie@yopmail.com,fd0fc99c-36b4-41f0-846e-c3246636c80b,Retinal surgery,377936
+660,Rochette,Sawtelle,Rochette.Sawtelle@yopmail.com,c92a0d83-fcf7-4b85-a575-ea3e2e23e8d3,Lumbar puncture,416180
+441,Adriana,Gherardo,Adriana.Gherardo@yopmail.com,af1c8d8d-0a22-44c9-aa83-b9e66cc6b92c,Chronic disease management,423463
+441,Adriana,Gherardo,Adriana.Gherardo@yopmail.com,c1443256-a011-4821-8be8-739e93773235,Symptom management for end-of-life care,302640
+441,Adriana,Gherardo,Adriana.Gherardo@yopmail.com,b254c8e3-4568-425a-83dd-fc78022b8bb2,Well-child check-ups,182734
+541,Annaliese,Saree,Annaliese.Saree@yopmail.com,d8d8c17f-cc83-4b83-98bb-b23949eb8c12,Symptom management for end-of-life care,473633
+488,Dominga,Ventre,Dominga.Ventre@yopmail.com,7b36263b-baac-4fc7-a965-983f67289c23,General health check-ups,978590
+488,Dominga,Ventre,Dominga.Ventre@yopmail.com,619baee4-d8ee-427d-8010-96fce966300c,Allergy testing,728165
+871,Aeriela,Connelly,Aeriela.Connelly@yopmail.com,7a604d6a-f0fb-4b6f-a713-97d0e55553dd,Pacemaker implantation,366293
+204,Robinia,Earlie,Robinia.Earlie@yopmail.com,19ed892a-4893-4df5-b3fb-293062a62d92,"Cosmetic procedures (e.g., Botox, fillers)",662732
+712,Karly,Lattie,Karly.Lattie@yopmail.com,6bf52c6c-749f-4617-88df-34588ff8d39f,General surgery,366347
+712,Karly,Lattie,Karly.Lattie@yopmail.com,55dfc913-49f6-4625-be1f-486b9bd8c8ae,Sedation for minor procedures,538956
+117,Madelle,Milde,Madelle.Milde@yopmail.com,09bb8e2f-4fe0-45c4-8963-d3ccc4c96e5c,Rhinoplasty,901393
+117,Madelle,Milde,Madelle.Milde@yopmail.com,e51507b4-eb28-4f47-863b-0c1fef2071b8,Thyroid biopsy,223481
+117,Madelle,Milde,Madelle.Milde@yopmail.com,253b0b97-88d0-40ac-a227-560255e4bd13,Cochlear implant surgery,639310
+749,Sallie,Hunfredo,Sallie.Hunfredo@yopmail.com,398be05a-722b-418e-8980-2bc7e29aede2,Dialysis,231224
+160,Leia,Diann,Leia.Diann@yopmail.com,b1ee38ca-a05d-4e9d-9d20-3c91264555fd,Epidural anesthesia for pain management,129839
+160,Leia,Diann,Leia.Diann@yopmail.com,6e260936-ec30-4bff-9485-70f712c8c3e8,Cataract surgery,185675
+229,Sybille,Esmaria,Sybille.Esmaria@yopmail.com,b92e1829-3e5f-4c42-89bf-3e6bcccc491a,EEG (Electroencephalogram),483365
+571,Daune,Wildermuth,Daune.Wildermuth@yopmail.com,989fd13d-05be-4cbf-8c97-5e0a01ff27fc,Immunizations,129560
+894,Kaja,Bach,Kaja.Bach@yopmail.com,e9609dce-f125-4f65-a067-4760a06e60b6,Immunizations,956065
+894,Kaja,Bach,Kaja.Bach@yopmail.com,3fa77b96-8f16-45c1-b9a4-5434be0eecee,Immunizations,762485
+784,Anallese,Knowling,Anallese.Knowling@yopmail.com,238fc412-6e7c-4f68-8bf1-035d7d4de814,Immunotherapy (allergy shots),340127
+766,Mellicent,Zaslow,Mellicent.Zaslow@yopmail.com,d495bf43-0b87-42cc-b4de-e2c9496f999a,Dermatologic surgery,580361
+766,Mellicent,Zaslow,Mellicent.Zaslow@yopmail.com,87ed2bb1-d792-4a51-92ee-6e9acadc496d,Liver biopsy,152609
+394,Gui,Modie,Gui.Modie@yopmail.com,5318cac4-64e2-443b-998d-2cd0771ab1e9,Well-child check-ups,618046
+394,Gui,Modie,Gui.Modie@yopmail.com,0006e325-3bb0-4067-86d2-41ffb734f8ea,Liver biopsy,299920
+858,Halette,Jillane,Halette.Jillane@yopmail.com,16021496-7c81-468c-a23f-d71fec4810f8,Nephrectomy,885552
+632,Paule,Zola,Paule.Zola@yopmail.com,a3f2a918-c712-4e9e-be48-c378a0ac0a17,Orthopedic surgery,749261
+839,Hettie,Ursulette,Hettie.Ursulette@yopmail.com,40e6fb54-1dc6-4683-9441-edf48477e9e2,Electroconvulsive therapy (ECT),156466
+333,Kore,Linskey,Kore.Linskey@yopmail.com,315fd542-d012-4468-ad08-666833f48b65,Laser therapy for skin conditions,67674
+333,Kore,Linskey,Kore.Linskey@yopmail.com,f93fc21a-0540-4f64-b6f5-2366531c0dbf,Allergy testing,477335
+325,Vevay,Holbrook,Vevay.Holbrook@yopmail.com,7de91e9e-f705-4ee5-aeed-1eaa922bc2a9,"X-rays, CT scans, MRI scans",423459
+662,Josephine,Jenness,Josephine.Jenness@yopmail.com,212e5ce0-2004-4823-b85d-6ebe85416e92,Angioplasty and stent placement,309466
+248,Bettine,Duwalt,Bettine.Duwalt@yopmail.com,985ef58f-b455-4d05-bae2-057c4fc6cdbb,Mechanical ventilation,723691
+248,Bettine,Duwalt,Bettine.Duwalt@yopmail.com,8c4c3eda-bd04-4ac7-b77d-786bd701ca64,Laser therapy for skin conditions,350343
+273,Doralynne,Dowski,Doralynne.Dowski@yopmail.com,b5520c68-01a3-43cd-99ed-ba018fe1bd13,Epidural anesthesia for pain management,866660
+381,Chickie,Hazlett,Chickie.Hazlett@yopmail.com,892cc24c-ef35-4d6a-8652-246bbc27b868,Chemotherapy,989313
+381,Chickie,Hazlett,Chickie.Hazlett@yopmail.com,7816d271-5173-49e3-a734-6af069ebd5ef,Comprehensive geriatric assessment,835276
+422,Carree,Cynar,Carree.Cynar@yopmail.com,74b90dab-8751-4d4d-8511-b6cf2a825ff5,Interventional radiology procedures,815557
+257,Desirae,Primalia,Desirae.Primalia@yopmail.com,1151baa1-9124-4fcc-914c-f593dd87c4d7,MRI for brain imaging,731511
+257,Desirae,Primalia,Desirae.Primalia@yopmail.com,a736ff11-ea63-4d53-a248-f6f5521d9693,Emotional and spiritual support,429014
+444,Nataline,Dituri,Nataline.Dituri@yopmail.com,61847a39-229c-4b15-8cc7-de7e21855493,Dementia care,484979
+444,Nataline,Dituri,Nataline.Dituri@yopmail.com,1f29974c-719c-4d37-866c-0c46dde7caa6,Endoscopy,776619
+444,Nataline,Dituri,Nataline.Dituri@yopmail.com,09aa195c-1356-4076-b2f2-7211d8dbab2c,Rhinoplasty,402316
+261,Annecorinne,Papageno,Annecorinne.Papageno@yopmail.com,391ad999-bd07-4b41-9d4d-e0973830c66c,Cochlear implant surgery,108949
+261,Annecorinne,Papageno,Annecorinne.Papageno@yopmail.com,7b989c6b-7b9d-4c47-bee5-da612edd259e,Endoscopy,905728
+261,Annecorinne,Papageno,Annecorinne.Papageno@yopmail.com,8bfa030b-aa19-4b5a-a9b6-6dd4e1f15ddd,Well-child check-ups,804856
+495,Adriana,Delp,Adriana.Delp@yopmail.com,b5009a20-e8ad-4238-8031-86db058be3b2,LASIK eye surgery,711264
+790,Rhoda,Latini,Rhoda.Latini@yopmail.com,85b2478a-f0d1-4366-836f-1cefbf2cf2c8,Bronchoscopy,654268
+627,Kelly,Stoller,Kelly.Stoller@yopmail.com,ee076ed4-416f-419b-a136-c0e2f6809640,Well-child check-ups,977858
+627,Kelly,Stoller,Kelly.Stoller@yopmail.com,912f1afe-0f1e-475f-a04b-a5f0ceb7e169,,431352
+627,Kelly,Stoller,Kelly.Stoller@yopmail.com,842d7667-3312-4e15-8701-b4bc9aabf12f,Surgical oncology,248585
+608,Rosene,Lynn,Rosene.Lynn@yopmail.com,39efdf02-f1a5-40c9-8cd7-e92ff3d553a8,Emotional and spiritual support,789491
+608,Rosene,Lynn,Rosene.Lynn@yopmail.com,6672a6c1-8928-4793-8860-e87c3fd5a927,Intensive care management,399227
+977,Carree,Bach,Carree.Bach@yopmail.com,a9953fa2-7e2d-44b7-abf9-016e0a3dee32,Lumbar puncture,346690
+677,Aubrie,Belanger,Aubrie.Belanger@yopmail.com,ecc8047d-32d1-4ce3-b1b5-40bef750ec07,Antibiotic therapy,300134
+505,Therine,Love,Therine.Love@yopmail.com,54ab5d4b-753e-4e25-8b63-8316104b600a,Dermatologic surgery,860359
+958,Beatriz,Hylan,Beatriz.Hylan@yopmail.com,1c37f79a-c952-4e53-8abe-b7b7ad1de9c3,Surgical oncology,118150
+106,Petronia,Tamsky,Petronia.Tamsky@yopmail.com,8eaf20ee-e769-44e0-a7a3-69bd5074b4bb,Electroconvulsive therapy (ECT),319541
+761,Dania,Rolf,Dania.Rolf@yopmail.com,259746b0-b5a3-49c7-870a-371a52da08e1,Angioplasty and stent placement,609808
+631,Roseline,Newell,Roseline.Newell@yopmail.com,1547d1f1-ba57-4b1f-bdb8-54b9f4fec88b,Allergy testing,740301
+163,Nananne,Rodmann,Nananne.Rodmann@yopmail.com,f260acf1-d8a7-46bf-b740-08681e9ce3d3,Thyroid biopsy,565069
+300,Willetta,Quent,Willetta.Quent@yopmail.com,d480e1dc-c0a8-456f-8995-4be15ab3ff93,Immunizations,417044
+376,Dode,Vilma,Dode.Vilma@yopmail.com,5b2b9a9b-d160-4d5b-a38c-a860dc25a8d7,Internal medicine consultations,148326
+376,Dode,Vilma,Dode.Vilma@yopmail.com,8dd574c5-4bed-4362-ab49-399d7dded0e8,Trauma resuscitation,316200
+843,Jessamyn,Friede,Jessamyn.Friede@yopmail.com,3d992a78-4566-451b-948a-b7a1f1d8ebe5,Sedation for minor procedures,48292
+843,Jessamyn,Friede,Jessamyn.Friede@yopmail.com,601cd0f3-8a79-480c-a897-8b256a9e79cd,Hormone replacement therapy,95843
+657,Heida,Birdella,Heida.Birdella@yopmail.com,52225225-bda8-4837-b3ec-322cf2826e84,Hemodynamic monitoring,866470
+657,Heida,Birdella,Heida.Birdella@yopmail.com,e5371032-7458-4529-a2e7-5f0d156e95f7,"Cosmetic procedures (e.g., Botox, fillers)",247124
+657,Heida,Birdella,Heida.Birdella@yopmail.com,cd466272-260d-4d78-adb2-cf8f8702d9f8,General surgery,619728
+582,Courtnay,Marijo,Courtnay.Marijo@yopmail.com,5172bdfc-2366-44de-b1d6-1c6f22201f86,Lumbar puncture,179636
+582,Courtnay,Marijo,Courtnay.Marijo@yopmail.com,9dd96bda-ba6b-42a0-afda-f8d684fa085c,Epidural analgesia during labor,550867
+384,Ninnetta,Old,Ninnetta.Old@yopmail.com,45929608-45d6-4427-937a-8c9a58797e73,Well-child check-ups,567942
+384,Ninnetta,Old,Ninnetta.Old@yopmail.com,e8db4c58-fdc5-4a63-bbe3-b1f7d445cfa9,Pacemaker implantation,690648
+636,Tonia,Knowling,Tonia.Knowling@yopmail.com,fc05312e-64b4-4b4f-a3d6-8f1e124b80bc,Interventional radiology procedures,267999
+636,Tonia,Knowling,Tonia.Knowling@yopmail.com,b0a54e53-a638-4c2e-8f34-a61b2ab77443,Pulmonary function tests,944293
+690,Maud,Swigart,Maud.Swigart@yopmail.com,3e3fb1db-fae4-4f3e-935b-7b55b809ce20,Dermatologic surgery,414086
+481,Neila,Pyle,Neila.Pyle@yopmail.com,20a43a92-37c9-4566-8c4b-e8969605b42a,Chemotherapy,801876
+473,Doro,Brodench,Doro.Brodench@yopmail.com,2394b809-a9a9-4b1d-8a63-00392aa20656,Sedation for minor procedures,538796
+374,Konstance,Ricki,Konstance.Ricki@yopmail.com,5fba7427-10ac-423f-a6d1-d815710e17c4,Antibiotic therapy,448957
+339,Mellicent,Viddah,Mellicent.Viddah@yopmail.com,ab03e66f-07d5-42e4-a12e-820259b47c7a,Medication management,728999
+469,Ashlee,Annabella,Ashlee.Annabella@yopmail.com,d87dcbfd-27c1-4897-91ee-3fc002eedc3e,Liver biopsy,366652
+286,Morganica,Buttaro,Morganica.Buttaro@yopmail.com,cba68f2f-a040-46ee-8b33-ec970cfd5a31,Comprehensive geriatric assessment,417316
+286,Morganica,Buttaro,Morganica.Buttaro@yopmail.com,a6d07341-2bb0-4461-a103-7c92e5e0d98f,General anesthesia for surgeries,438263
+312,Roberta,Keelia,Roberta.Keelia@yopmail.com,93f16d41-9a24-4c1b-abba-0a12df11bb09,Well-child check-ups,545613
+312,Roberta,Keelia,Roberta.Keelia@yopmail.com,869ce6e5-9258-465b-acf0-2bbd24483a28,Pulmonary function tests,985602
+674,Kittie,Fax,Kittie.Fax@yopmail.com,763ca90a-bb56-40a0-b420-fa110d1cf2c1,Chemotherapy,821103
+674,Kittie,Fax,Kittie.Fax@yopmail.com,0f8c35c2-91b5-4f34-baf6-651eb9364b1e,Chemotherapy,711179
+518,Donetta,Kauppi,Donetta.Kauppi@yopmail.com,0aea09b7-fbbe-43a8-8b53-8d50c44d2531,"X-rays, CT scans, MRI scans",27009
+518,Donetta,Kauppi,Donetta.Kauppi@yopmail.com,cf2677e5-ffb7-4b9e-89ab-5341c2b6c081,Endoscopy,61338
+518,Donetta,Kauppi,Donetta.Kauppi@yopmail.com,33db6e48-9666-4659-9115-a57d50a10836,Bronchoscopy,710671
+990,Nessie,Agle,Nessie.Agle@yopmail.com,5a549378-87f4-483c-b581-689779e05818,Thyroid biopsy,424540
+990,Nessie,Agle,Nessie.Agle@yopmail.com,20a57c02-99da-4301-8af6-6a95ef95f895,Advanced cardiac life support,76951
+401,Aimil,Andrel,Aimil.Andrel@yopmail.com,0f3c627d-6de5-4686-b8a7-d52e3b8f3840,LASIK eye surgery,512652
+652,Sashenka,Joni,Sashenka.Joni@yopmail.com,f32a5443-dc99-40b4-912b-cdda171b2c88,,163909
+567,Trixi,Oriana,Trixi.Oriana@yopmail.com,3759edfd-0ae0-414f-89ba-d39efa38126d,Retinal surgery,829753
+567,Trixi,Oriana,Trixi.Oriana@yopmail.com,6e84c20b-b3a2-4e55-80b3-1d3682c8461d,Intensive care management,932081
+913,Cissiee,Kare,Cissiee.Kare@yopmail.com,7bf6154f-6558-47e9-b690-86a4a6d83a87,Coronary artery bypass surgery,461034
+605,Juliane,Pip,Juliane.Pip@yopmail.com,ac6048c5-c86f-4d13-bede-9b42d375b572,Insulin pump management for diabetes,49414
+605,Juliane,Pip,Juliane.Pip@yopmail.com,1176505a-b8ba-441b-bd33-06d0240eaf5b,Polypharmacy management,657358
+950,Agnese,Manolo,Agnese.Manolo@yopmail.com,45275a22-1e33-4500-a35e-eb2b8d06baf9,Thyroid biopsy,337517
+950,Agnese,Manolo,Agnese.Manolo@yopmail.com,e321bed1-656e-4d54-814e-6bb25c09d517,Dermatologic surgery,854536
+640,Zia,Ovid,Zia.Ovid@yopmail.com,330221a5-6d2b-4d81-bc6a-30a93091f8c8,,152046
+837,Teddie,Cristi,Teddie.Cristi@yopmail.com,745b778b-1320-4120-a9d5-9d098272b288,Rhinoplasty,547703
+622,Ezmeralda,Stefa,Ezmeralda.Stefa@yopmail.com,cf577a82-a4f7-4133-8299-5583ecff3d21,Epidural anesthesia for pain management,148653
+622,Ezmeralda,Stefa,Ezmeralda.Stefa@yopmail.com,7a1ac4f9-3172-413a-9bbc-4800fd1451ed,Ventilation support,42630
+666,Bee,Atonsah,Bee.Atonsah@yopmail.com,452b8c1d-b1eb-424c-adf7-a498e2d51d0a,Plastic surgery,95966
+575,Selma,Verger,Selma.Verger@yopmail.com,153e5714-e6ce-4262-9987-0cf6813f8704,Cochlear implant surgery,626748
+496,Daphne,Lareena,Daphne.Lareena@yopmail.com,ec5c356e-d31a-4d0b-a04d-b2ab0c88ca0b,Nephrectomy,929242
+668,Di,McClimans,Di.McClimans@yopmail.com,98f1dcd8-1b5c-4524-b930-8db977f5d4e1,Sedation for minor procedures,537831
+668,Di,McClimans,Di.McClimans@yopmail.com,c679016b-d45a-4f45-b230-2828458adccc,Comprehensive geriatric assessment,353305
+668,Di,McClimans,Di.McClimans@yopmail.com,1f52c38a-2f34-4827-a7ce-282ba6cdac9e,Pacemaker implantation,464006
+671,Adore,Kamaria,Adore.Kamaria@yopmail.com,3974b043-3eb2-4e8d-8fb5-b8338c1dbd9f,Lumbar puncture,601928
+671,Adore,Kamaria,Adore.Kamaria@yopmail.com,a9bd738c-d76e-473e-9818-55f2b36c2839,General health check-ups,250318
+136,Gabriellia,Krystle,Gabriellia.Krystle@yopmail.com,e0bd1dd6-2f27-4fcf-8632-4e0961bc1f24,Trauma resuscitation,35845
+744,Averyl,Hutchison,Averyl.Hutchison@yopmail.com,8eaf98b8-274e-46e0-b87e-a2964e488875,Orthopedic surgery,749548
+744,Averyl,Hutchison,Averyl.Hutchison@yopmail.com,f6d0a06c-b66e-4d67-b6a9-8b370a87b1e2,LASIK eye surgery,816691
+744,Averyl,Hutchison,Averyl.Hutchison@yopmail.com,4dd7a2a1-2944-4cd0-96a3-f659e0b08602,Emergency surgical procedures,584326
+851,Willetta,Belldas,Willetta.Belldas@yopmail.com,b056ced5-507d-4923-9276-09ead022a4ef,Dialysis,835185
+851,Willetta,Belldas,Willetta.Belldas@yopmail.com,3fc95ad0-0316-40ba-a6e6-6dd08c28c603,Immunizations,967709
+717,Tybie,Latini,Tybie.Latini@yopmail.com,37fc7f0c-1b50-4031-a984-c86fa740866f,Epidural analgesia during labor,349500
+994,Gui,Turne,Gui.Turne@yopmail.com,7f19888b-c055-4011-88dd-7db27d9e92f0,EEG (Electroencephalogram),900365
+994,Gui,Turne,Gui.Turne@yopmail.com,9d839939-f3e9-4f0d-a28f-07c93f1fd492,Management of complex medical conditions,537140
+302,Florie,Delp,Florie.Delp@yopmail.com,f6aad0da-1b99-4a2b-b136-6cb7880470ce,EEG (Electroencephalogram),521269
+302,Florie,Delp,Florie.Delp@yopmail.com,774cb7bc-909e-417d-a6ac-2b99a713e014,Coronary artery bypass surgery,786033
+787,Elbertina,Tice,Elbertina.Tice@yopmail.com,dd9639eb-9bd7-47e0-a22c-e52e2a5b47b4,Bronchoscopy,888730
+179,Donetta,Docilla,Donetta.Docilla@yopmail.com,c13108dc-17be-4f1e-850d-aac093668b5b,Well-child check-ups,662830
+179,Donetta,Docilla,Donetta.Docilla@yopmail.com,9ddd7661-d4cf-4b33-be2c-264d9e6294a1,Advanced cardiac life support,794440
+689,Joceline,Catie,Joceline.Catie@yopmail.com,0bd1024c-6fb8-4bd9-ae86-df3100da5ab3,Pediatric surgery,742667
+494,Maisey,Pyle,Maisey.Pyle@yopmail.com,ae41e632-7be4-45c6-9841-c773a1cfd40e,Cardiology:,480872
+140,Reeba,Autrey,Reeba.Autrey@yopmail.com,921c7c7d-c2c7-44b9-b9c6-6a325f1596fd,Hemodynamic monitoring,644410
+140,Reeba,Autrey,Reeba.Autrey@yopmail.com,c5aa2139-01a9-4d24-87c7-0e386cd1fe1b,Sedation for minor procedures,110145
+530,Carree,Daegal,Carree.Daegal@yopmail.com,3917a255-05a3-4369-adcd-759e1ea2a0e3,Medication management,850523
+437,Ann-Marie,Breed,Ann-Marie.Breed@yopmail.com,7c622bea-5714-46e6-abf8-ad72bd39094c,Polypharmacy management,409394
+890,Angelique,Auberbach,Angelique.Auberbach@yopmail.com,178925d5-069e-4664-bc20-5cce302edcbe,Medication management,121894
+693,Lucy,Merna,Lucy.Merna@yopmail.com,fac15df5-af26-4c23-8dca-4a219b47685b,General anesthesia for surgeries,155419
+693,Lucy,Merna,Lucy.Merna@yopmail.com,da453de1-f189-4ba0-b8be-cf6ff3fe8e39,Immunotherapy (allergy shots),612786
+693,Lucy,Merna,Lucy.Merna@yopmail.com,946c8130-b38e-48f6-a386-e99d2152086d,Comprehensive geriatric assessment,631270
+415,Doralynne,Harl,Doralynne.Harl@yopmail.com,ac99c364-59f9-4836-8ec5-2e90fd3ab328,Medication management,828141
+415,Doralynne,Harl,Doralynne.Harl@yopmail.com,debcde16-324e-475b-a137-51e8a1d94550,Chronic disease management,510621
+415,Doralynne,Harl,Doralynne.Harl@yopmail.com,416a5182-9c95-44d8-a17b-3cf30d6836ba,Well-child check-ups,618904
+589,Elena,Richers,Elena.Richers@yopmail.com,4167f1d7-7419-424e-b4d7-4368c2ada31c,Antibiotic therapy,394135
+115,Blondelle,Riordan,Blondelle.Riordan@yopmail.com,de9554cc-87e8-486e-93e3-484ca8d8a3f3,Kidney transplant,486003
+882,Althea,Hunfredo,Althea.Hunfredo@yopmail.com,2d047c0c-6402-4092-9906-bde1b53eb0c2,Radiation therapy,654032
+509,Frances,Lipson,Frances.Lipson@yopmail.com,4cd0dff6-f1eb-435a-adf8-f8f0b3a4cff9,Pulmonary function tests,21661
+242,Frieda,Bonilla,Frieda.Bonilla@yopmail.com,cc296464-6585-4219-9f69-f5222536cd28,Insulin pump management for diabetes,720623
+242,Frieda,Bonilla,Frieda.Bonilla@yopmail.com,8e9ceefe-c7a1-467a-9e10-55bf21ab8b10,Bronchoscopy,435046
+242,Frieda,Bonilla,Frieda.Bonilla@yopmail.com,bb8d48db-c5a4-4015-8f2e-e1ac6b5efcd3,Cardiology:,564585
+242,Frieda,Bonilla,Frieda.Bonilla@yopmail.com,42e82b7d-178f-4603-a1e1-a8793c5444da,Laser therapy for skin conditions,565746
+675,Devina,Ioab,Devina.Ioab@yopmail.com,12429fad-1cd5-4645-8a52-a3dd32d3397b,Cochlear implant surgery,111549
+901,Belva,Levey,Belva.Levey@yopmail.com,4271aba1-4255-483e-979b-756ecc9d4dd5,Surgical oncology,974269
+901,Belva,Levey,Belva.Levey@yopmail.com,2ba933e9-b1f0-4801-b192-e2b094355e8b,Radiation therapy,203010
+445,Collen,Ophelia,Collen.Ophelia@yopmail.com,9962b819-536c-4183-b1d6-079b385b61f9,Surgical oncology,169197
+724,Elora,Tatianas,Elora.Tatianas@yopmail.com,9045f659-9a30-4ca3-8ae7-17852497a8cc,Dialysis,900844
+724,Elora,Tatianas,Elora.Tatianas@yopmail.com,a23835dd-b4ed-4b34-8cf5-c447bc108405,Pediatric surgery,879224
+586,Gerianna,Sibyls,Gerianna.Sibyls@yopmail.com,67e73320-b08e-4532-a206-2a133e1f63f8,Chemotherapy,383764
+183,Coral,Evvie,Coral.Evvie@yopmail.com,087c6ed1-9a5c-4d22-8679-39a95ed1d426,Surgical oncology,460039
+249,Nicoli,Doig,Nicoli.Doig@yopmail.com,b1496ba9-7751-4a4c-801a-739d78d3a481,Epidural anesthesia for pain management,849723
+249,Nicoli,Doig,Nicoli.Doig@yopmail.com,a60e5133-2967-43a0-a53d-05d26a15073e,Interventional radiology procedures,961692
+283,Chloris,Hazlett,Chloris.Hazlett@yopmail.com,9b9e9265-f1e3-4543-98cd-727f0286b2e9,Interventional radiology procedures,798821
+546,Aimil,Suzetta,Aimil.Suzetta@yopmail.com,18255fdd-0a46-44c2-9a27-c68ab6f111cf,Allergy testing,226964
+546,Aimil,Suzetta,Aimil.Suzetta@yopmail.com,c8f8e250-034d-460e-9002-a33a60861a6e,Thyroid biopsy,738406
+546,Aimil,Suzetta,Aimil.Suzetta@yopmail.com,317265cb-020e-4f78-bc60-18cca6538959,Cardiology:,341309
+546,Aimil,Suzetta,Aimil.Suzetta@yopmail.com,16732ac4-e0f2-4808-8ab1-08fa8165d875,Emotional and spiritual support,867260
+380,Blinni,Zamora,Blinni.Zamora@yopmail.com,65cf2e47-8798-4c86-bba8-4dbc08bb7240,Surgical oncology,148700
+923,Stevana,Henebry,Stevana.Henebry@yopmail.com,8ea31656-c0ff-4583-a326-600072ac1d0f,Chronic disease management,345180
+833,Odessa,Rillings,Odessa.Rillings@yopmail.com,e805fa6f-5f6b-4dc5-83a1-51d9155bd1d2,Electroconvulsive therapy (ECT),330215
+289,Blinni,Kermit,Blinni.Kermit@yopmail.com,cf49dda1-a7cd-4755-9733-69a961577c60,Coronary artery bypass surgery,120040
+817,Trixi,Skurnik,Trixi.Skurnik@yopmail.com,e525884f-9f3c-43f9-a45d-6d1912699355,Insulin pump management for diabetes,460464
+817,Trixi,Skurnik,Trixi.Skurnik@yopmail.com,605a6f7a-9607-4ddd-ba0a-a1ddc92d6566,Well-child check-ups,885660
+928,Tani,Greenwald,Tani.Greenwald@yopmail.com,5b9115d8-616d-4d55-ad3d-4a74f6cdbed4,Psychotherapy,635555
+928,Tani,Greenwald,Tani.Greenwald@yopmail.com,73e7ac3d-3b5b-4990-a190-604288216418,"Cosmetic procedures (e.g., Botox, fillers)",342677
+954,Shell,Ortrude,Shell.Ortrude@yopmail.com,a8e8875a-d501-4a24-ab32-d47787dab56d,Thyroid biopsy,843109
+908,Reeba,Fulmer,Reeba.Fulmer@yopmail.com,6eb8cf47-7baf-4d65-8ecd-568441fed2ee,Dementia care,643347
+307,Starla,Bari,Starla.Bari@yopmail.com,c1fd3dff-67e7-4985-91fe-935b0c93f901,Hemodynamic monitoring,250237
+307,Starla,Bari,Starla.Bari@yopmail.com,a92f3db0-9995-4e15-bebd-5aa5259c6fd3,Thyroid biopsy,757391
+306,Doralynne,Chem,Doralynne.Chem@yopmail.com,0fa836b8-9dcf-46b1-88d9-4cb90170ac5f,Dementia care,622737
+306,Doralynne,Chem,Doralynne.Chem@yopmail.com,37cba0bc-22e2-4cf1-add6-6637320db563,Hormone replacement therapy,685274
+306,Doralynne,Chem,Doralynne.Chem@yopmail.com,9f9dda25-bfac-43f7-ad28-e679b5317cee,Comprehensive geriatric assessment,333274
+315,Rayna,Thar,Rayna.Thar@yopmail.com,2cb743b3-28da-400d-863f-d5260f5d1673,Minor surgical procedures,434633
+917,Harrietta,Maisey,Harrietta.Maisey@yopmail.com,afb6dfe2-9d47-463a-99a7-5bd757d5670b,Cardiology:,480745
+411,Gaylene,Robertson,Gaylene.Robertson@yopmail.com,90cf2478-df5e-4f7d-a91b-0e207e49e09f,EEG (Electroencephalogram),902529
+411,Gaylene,Robertson,Gaylene.Robertson@yopmail.com,729f4915-0442-42c7-b8e1-59e161965d68,Cardiology:,363996
+474,Penelopa,Borrell,Penelopa.Borrell@yopmail.com,97ba87a7-a6c7-42f5-9269-06f6f9966960,General surgery,545638
+634,Linzy,Tamar,Linzy.Tamar@yopmail.com,11c0bd6e-0622-42f7-af5e-adc1cda4cf07,General health check-ups,260457
+634,Linzy,Tamar,Linzy.Tamar@yopmail.com,ec28d333-032c-4771-af30-4d51bc8e38bf,Intensive care management,831529
+634,Linzy,Tamar,Linzy.Tamar@yopmail.com,30416791-2880-4b33-b41c-3a7f58cd7c34,Immunizations,45782
+449,Myrtice,Bebe,Myrtice.Bebe@yopmail.com,778785af-3d26-437d-9e0e-ccdafdc7dc5e,Immunizations,114914
+449,Myrtice,Bebe,Myrtice.Bebe@yopmail.com,51d5e976-e832-4c9c-adf5-1c415d11c4e2,Liver biopsy,694847
