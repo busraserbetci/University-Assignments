@@ -1,0 +1,127 @@
+"C:\Program Files\Eclipse Adoptium\jdk-11.0.17.8-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\lib\idea_rt.jar=62535:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\alptk\IdeaProjects\bbm104-PA3\out\production\bbm104-PA3 Main persons.txt accounts.txt transactions.txt
+Current Account: Amount exceeds overdraft limit. Amount: 60.0 Balance: -50.0 Limit: 100.0
+****************** Summary for Account DEP11 ******************
+
+Account Info
+Fixed Deposit Account - Account Number: DEP11
+Balance: $200.0
+Interest Rate: 80.0%
+Maturity Date: 2025-02-20
+Status: Active
+
+Account Risk Evaluation
+Fixed Deposit Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account SAV110 ******************
+
+Account Info
+Savings Account - Account Number: SAV110
+Balance: $300.0
+Interest Rate: 80.0%
+
+Account Risk Evaluation
+Saving Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account ABC123 ******************
+------------------------------------
+Transaction UD: 53cfb2dd-a881-4b31-b03e-40e4bd60f442
+Sender: ABC123
+Receiver: ABC124
+Amount: -40.0
+------------------------------------
+
+------------------------------------
+Transaction UD: dc312f52-2766-4703-8fe6-272a543982eb
+Sender: ABC123
+Receiver: ABC124
+Amount: -70.0
+------------------------------------
+
+------------------------------------
+Transaction UD: 86117d7d-45a9-4c29-9778-7183b7e91bde
+Sender: ABC123
+Receiver: ABC124
+Amount: -90.0
+------------------------------------
+
+------------------------------------
+Transaction UD: 39703c97-4651-4064-bace-1065cadc51f0
+Sender: ABC123
+Receiver: ABC124
+Amount: -50.0
+------------------------------------
+
+
+Account Info
+Current Account - Account Number: ABC123
+Balance: $-50.0
+Overdraft Limit: $100.0
+
+Account Risk Evaluation
+Current Account-Medium Risk: Account is in overdraft.
+************************************************************************************************************
+
+****************** Summary for Account ABC124 ******************
+------------------------------------
+Transaction UD: ee75a62f-c8e1-4c8f-88fe-8b8258cee5d4
+Sender: ABC123
+Receiver: ABC124
+Amount: 40.0
+------------------------------------
+
+------------------------------------
+Transaction UD: 8bd3f697-c451-43e6-9cb8-ef9b6d9d0b11
+Sender: ABC123
+Receiver: ABC124
+Amount: 70.0
+------------------------------------
+
+------------------------------------
+Transaction UD: 24f94b85-682a-4998-ae7e-cb7bd841e2f6
+Sender: ABC123
+Receiver: ABC124
+Amount: 90.0
+------------------------------------
+
+------------------------------------
+Transaction UD: 677f5524-c1f3-4d75-84d0-397f74c24f32
+Sender: ABC123
+Receiver: ABC124
+Amount: 50.0
+------------------------------------
+
+
+Account Info
+Current Account - Account Number: ABC124
+Balance: $1250.0
+Overdraft Limit: $500.0
+
+Account Risk Evaluation
+Current Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account ABC125 ******************
+
+Account Info
+Current Account - Account Number: ABC125
+Balance: $30.0
+Overdraft Limit: $100.0
+
+Account Risk Evaluation
+Current Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account DEP12 ******************
+
+Account Info
+Fixed Deposit Account - Account Number: DEP12
+Balance: $200.0
+Interest Rate: 80.0%
+Maturity Date: 2024-07-20
+Status: Matured
+
+Account Risk Evaluation
+Fixed Deposit Account-High Risk: Overdraft usage close to the limit.
+************************************************************************************************************

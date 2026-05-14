@@ -1,0 +1,84 @@
+Fixed Deposit Account: Insufficient funds including penalty charges. Amount: 100.0 Penalty: 40.0Balance: 130.0
+****************** Summary for Account DEP11 ******************
+------------------------------------
+Transaction UD: 26d0ed09-1043-4ec4-b860-2e90f5161dfe
+Sender: DEP11
+Receiver: SAV110
+Amount: -70.0
+------------------------------------
+
+
+Account Info
+Fixed Deposit Account - Account Number: DEP11
+Balance: $130.0
+Interest Rate: 80.0%
+Maturity Date: 2025-02-20
+Status: Active
+
+Account Risk Evaluation
+Fixed Deposit Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account SAV110 ******************
+------------------------------------
+Transaction UD: c9fd7431-80b1-4f57-8363-0f29655ecaef
+Sender: DEP11
+Receiver: SAV110
+Amount: 50.0
+------------------------------------
+
+
+Account Info
+Savings Account - Account Number: SAV110
+Balance: $350.0
+Interest Rate: 80.0%
+
+Account Risk Evaluation
+Saving Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account ABC123 ******************
+
+Account Info
+Current Account - Account Number: ABC123
+Balance: $200.0
+Overdraft Limit: $100.0
+
+Account Risk Evaluation
+Current Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account ABC124 ******************
+
+Account Info
+Current Account - Account Number: ABC124
+Balance: $1000.0
+Overdraft Limit: $500.0
+
+Account Risk Evaluation
+Current Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account ABC125 ******************
+
+Account Info
+Current Account - Account Number: ABC125
+Balance: $30.0
+Overdraft Limit: $100.0
+
+Account Risk Evaluation
+Current Account-Low Risk: Account is in stable.
+************************************************************************************************************
+
+****************** Summary for Account DEP12 ******************
+
+Account Info
+Fixed Deposit Account - Account Number: DEP12
+Balance: $200.0
+Interest Rate: 80.0%
+Maturity Date: 2024-07-20
+Status: Matured
+
+Account Risk Evaluation
+Fixed Deposit Account-High Risk: Overdraft usage close to the limit.
+************************************************************************************************************
